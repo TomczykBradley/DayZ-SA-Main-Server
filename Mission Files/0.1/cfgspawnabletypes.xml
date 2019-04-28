@@ -1650,6 +1650,20 @@
             <item name="Mag_STANAG_30Rnd" chance="1.00" />
         </attachments>
 	</type>
+    <type name="MassM4A1">
+        <attachments chance="1.00">
+            <item name="M4_OEBttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_PlasticHndgrd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mass762Stanag" chance="1.00" />
+        </attachments>
+	</type>
 	<type name="SKS">
 		<attachments chance="0.08">
             <item name="PUScopeOptic" chance="1.00" />
@@ -1663,7 +1677,6 @@
             <item name="Mag_CZ527_5rnd" chance="1.00" />
         </attachments>
 	</type>
-<!-- FUTURE
     <type name="AK101">
 		<attachments chance="0.30">
             <item name="AK_FoldingBttstck" chance="0.30" />
@@ -1836,6 +1849,15 @@
             <item name="Mag_Scout_5Rnd" chance="1.00" />
         </attachments>
 	</type>
+    <type name="MassScout556">
+		<attachments chance="1.00">
+            <item name="M68Optic" chance="0.30" />
+            <item name="ACOGOptic" chance="1.00" />
+        </attachments>
+		<attachments chance="0.10">
+            <item name="Scout556mag" chance="1.00" />
+        </attachments>
+	</type>
 	<type name="Trumpet">
 		<attachments chance="0.25">
             <item name="HuntingOptic" chance="1.00" />
@@ -1941,7 +1963,32 @@
 			<item name="Mag_Saiga_Drum20Rnd" chance="0.30" />
         </attachments>
 	</type>
--->
+    <type name="MassPPSH41">
+        <attachments chance="0.10">
+            <item name="Massppshdrum" chance="0.20" />
+			<item name="Massppshbox" chance="0.80" />
+        </attachments>
+	</type>
+    <type name="MassAR500">
+        <attachments chance="0.30">
+            <item name="Mass762Stanag" chance="0.35" />
+        </attachments>
+	</type>
+    <type name="MassSVT40">
+        <attachments chance="0.40">
+            <item name="MassSVTmag" chance="0.35" />
+        </attachments>
+	</type>
+    <type name="Massm300">
+        <attachments chance="0.05">
+            <item name="MassSVTmag" chance="0.35" />
+        </attachments>
+	</type>
+    <type name="Massm300">
+        <attachments chance="0.05">
+            <item name="MassSVTmag" chance="0.35" />
+        </attachments>
+	</type>
 	<!--  END OF WEAPONS  -->
     <type name="PersonalRadio">
         <attachments chance="0.30">
