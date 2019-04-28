@@ -1,1 +1,1 @@
-start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 -noFilePatching -mod=@CF;@VanillaPlusPlusMap;@Trader;@Mass'sManyItemOverhaul;
+start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 -noFilePatching -profiles=F:\DayZServer\Main Server\@Trader\ServerProfileFolder\Trader -mod=@CF;@VanillaPlusPlusMap;@Trader;@Mass'sManyItemOverhaul;
