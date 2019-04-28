@@ -17,6 +17,56 @@
 		<cargo preset="mixArmy" />
 		<cargo preset="mixArmy" />
     </type>
+    <type name="Massczech">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+    </type>
+    <type name="MassczechWinter">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+    </type>
+    <type name="MassWinterTortilla">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+    </type>
+    <type name="MasscamoTaloon">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+    </type>
+    <type name="MasscamoTaloon1">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+    </type>
+    <type name="Massbrownhuntingbp">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+    </type>
+    <type name="Massblackhuntingbp">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+    </type>
+    <type name="MassWinterHuntingbp">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+    </type>
+    <type name="MassCoyoteBPUrban">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+    </type>
+    <type name="MassCanvasBag">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+    </type>
     <type name="DryBag_Orange">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsIndustrial" />
@@ -71,7 +121,19 @@
     <type name="SmershBag">
         <cargo preset="foodArmy" />
         <cargo preset="mixArmy" />
-    </type>	
+    </type>
+    <type name="MassSmersh">
+        <cargo preset="foodArmy" />
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="MassSmershwinter">
+        <cargo preset="foodArmy" />
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="MassSmershblack">
+        <cargo preset="foodArmy" />
+        <cargo preset="mixArmy" />
+    </type>
     <type name="ChildBag_Green">
         <cargo preset="foodVillage" />
     </type>
@@ -100,6 +162,46 @@
     <type name="TortillaBag">
         <cargo preset="foodArmy" />
         <cargo preset="mixArmy" />
+    </type>
+    <type name="MassImprovisedBag_Black">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassImprovisedBag_Blue">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassImprovisedBag_Green">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassImprovisedBag_Orange">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassImprovisedBag_Pink">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassImprovisedBag_Red">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassImprovisedBag_Yellow">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassImprovisedBag_Woodland">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassImprovisedBag_Partizan">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassImprovisedBag_Urban">
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
     </type>
     <type name="FirstAidKit">
         <tag name="shelves" />
@@ -151,7 +253,7 @@
     </type>
     <type name="ShortJeans_Darkblue">
         <cargo preset="foodVillage" />
-    </type>	
+    </type>
     <type name="ShortJeans_Green">
         <cargo preset="foodVillage" />
     </type>
@@ -871,11 +973,11 @@
 	<type name="ZmbM_CitizenASkinny_Red">
         <cargo preset="foodCity" />
         <cargo preset="toolsCity" />
-    </type>	
+    </type>
 	<type name="ZmbM_CitizenBFat_Blue">
         <cargo preset="foodCity" />
         <cargo preset="toolsCity" />
-    </type>	
+    </type>
 	<type name="ZmbM_CitizenBFat_Green">
         <cargo preset="foodCity" />
         <cargo preset="toolsCity" />
@@ -887,11 +989,11 @@
 	<type name="ZmbM_ClerkFat_Brown">
         <cargo preset="foodCity" />
         <cargo preset="toolsCity" />
-    </type>	
+    </type>
 	<type name="ZmbM_ClerkFat_Grey">
         <cargo preset="foodCity" />
         <cargo preset="toolsCity" />
-    </type>	
+    </type>
 	<type name="ZmbM_ClerkFat_Khaki">
         <cargo preset="foodCity" />
         <cargo preset="toolsCity" />
@@ -903,7 +1005,7 @@
     <type name="ZmbM_CommercialPilotOld_Blue">
         <cargo preset="foodCity" />
         <cargo preset="toolsCity" />
-    </type>	
+    </type>
     <type name="ZmbM_CommercialPilotOld_Brown">
         <cargo preset="foodCity" />
         <cargo preset="toolsCity" />
@@ -1092,7 +1194,7 @@
     <type name="ZmbM_OffshoreWorker_Yellow">
         <cargo preset="foodCity" />
         <cargo preset="toolsIndustrial" />
-    </type>	
+    </type>
 	<!-- FireFighter -->
     <type name="ZmbM_FirefighterNormal">
         <cargo preset="toolsCity" />
@@ -1202,7 +1304,7 @@
     <type name="ZmbM_HermitSkinny_Red">
         <cargo preset="foodHermit" />
         <cargo preset="toolsHermit" />
-    </type>	
+    </type>
     <type name="ZmbM_HikerSkinny_Blue">
         <cargo preset="foodHermit" />
         <cargo preset="toolsHermit" />
@@ -1714,7 +1816,7 @@
 	<type name="LongHorn">
         <attachments chance="0.20">
             <item name="Crossbow_RedpointOptic" chance="1.00" />
-        </attachments>	
+        </attachments>
         <attachments chance="1.00">
             <item name="PistolOptic" chance="1.00" />
         </attachments>
@@ -1748,7 +1850,7 @@
 			<item name="Mag_Saiga_Drum20Rnd" chance="0.30" />
         </attachments>
 	</type>
--->	
+-->
 	<!--  END OF WEAPONS  -->
     <type name="PersonalRadio">
         <attachments chance="0.30">
@@ -2115,7 +2217,7 @@
 			<item name="Mag_IJ70_8Rnd" chance="0.15" />
 			<item name="Mag_SVD_10Rnd" chance="0.05" />
 		</cargo>
-	</type>	
+	</type>
 	<type name="GiftBox_Large_1">
 		<cargo chance="0.35">
 			<item name="MP5K" chance="0.40" />
@@ -2389,7 +2491,7 @@
 			<item name="HatchbackTrunk" chance="0.20" />
 		</attachments>
 	</type>
-	
+
 	<type name="CivilianSedan">
 		<attachments chance="1.00">
 			<item name="CivSedanWheel" chance="0.60" />
