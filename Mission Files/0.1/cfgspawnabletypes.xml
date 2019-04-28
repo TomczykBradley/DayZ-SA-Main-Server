@@ -280,6 +280,33 @@
         <cargo preset="foodVillage" />
 		<cargo preset="toolsIndustrial" />
     </type>
+    <type name="Masswoodlandcargopants">
+        <cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+    </type>
+    <type name="Massurbancamocargopants">
+        <cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+    </type>
+    <type name="MassBlackGorkabottom">
+        <cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+    </type>
+    <type name="MassWinterCUUPants">
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="MassWinterBDUPants">
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="MassWinterHunterPants">
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="MassSM90Pants">
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="MassSM90WPants">
+        <cargo preset="mixArmy" />
+    </type>
     <type name="TTSKOPants">
 		<cargo preset="mixArmy" />
     </type>
@@ -577,6 +604,36 @@
     <type name="Raincoat_Black">
         <cargo preset="mixVillage" />
     </type>
+    <type name="MassRainCoatcourier_Black">
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassRainCoatcourier_Blue">
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassRainCoatcourier_Green">
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassRainCoatcourier_Orange">
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassRainCoatcourier_Pink">
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassRainCoatcourier_Red">
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassRainCoatcourier_Yellow">
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassRainCoatcourier_Woodland">
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassRainCoatcourier_Partizan">
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassRainCoatcourier_Urban">
+        <cargo preset="mixVillage" />
+    </type>
     <type name="M65Jacket_Black">
         <cargo preset="foodArmy" />
         <cargo preset="ammoArmy" />
@@ -610,6 +667,22 @@
         <cargo preset="ammoArmy" />
     </type>
     <type name="GorkaEJacket_PautRev">
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="Massurbancamom65">
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="MassWinterCUUJacket">
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="MassWinterBDUJacket">
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="MassTUhikingjacket">
         <cargo preset="foodArmy" />
         <cargo preset="ammoArmy" />
     </type>
@@ -767,6 +840,9 @@
         <cargo preset="mixVillage" />
     </type>
     <type name="QuiltedJacket_Violet">
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MassCUUquiltedJacket">
         <cargo preset="mixVillage" />
     </type>
     <type name="BomberJacket_Black">
