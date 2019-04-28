@@ -1,1 +1,1 @@
-start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 -noFilePatching -Mod=@Mass'sManyItemOverhaul
+start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 -noFilePatching -Mod=@VanillaPlusPlusMap;@Trader;@Mass'sManyItemOverhaul;
