@@ -1,0 +1,234 @@
+			//Mass Weapons
+			"MassAR500",
+			"MassSVT40",
+			"MassSVT40_Black",
+			"MassSVT40_Green",
+			"MassSVT40_Camo",
+			"MassPPSH41",
+			"MassPPSH41_Black",
+			"MassPPSH41_Green",
+			"MassPPSH41_Camo",
+			"MassScout556",
+			"Massm300",
+			"Massm300_camo",
+			"MassKivaari",
+			"MassB52",
+			"MassPpskn",
+			"MassM110",
+			"MassM4A1",
+			"Massarmsan"
+
+			//Mass Ammo
+			"AmmoBox_408Chey",
+			"AmmoBox_12gaBB",
+			"AmmoBox_338",
+			"Ammo_408Chey",
+			"Ammo_338",
+			"Ammo_12GaBB"
+
+			//Mass Magazines
+			"Scout556mag",
+			"kivaarimag",
+			"Mass308STANAG",
+			"Mass762Stanag",
+			"Massppshdrum",
+			"Massppshbox",
+			"MassSVTmag",
+			"Massm300mag"
+
+			//Mass Suppressors
+			"MassScoutSuppressor",
+			"shotgun_Suppressor",
+			"MassSuppressor308"
+
+			//Mass Conversion Kits
+			"Mass762x39_ConversionKit",
+			"Mass556x45_ConversionKit"
+
+			//Mass Repair Kits
+			"MassAR500pair"
+
+			//Mass Tops
+			"MassSM90Top",
+			"MassSM90WTop",
+			"MassBlackGorkatop",
+			"MassGorkaInvertWinterTop",
+			"MassGorkaInvertWoodlandTop",
+			"MassGorkaInvertFlecktarnTop",
+			"MassUSww2top",
+			"MassGokuShirt",
+			"MassTropicamTop",
+			"MassMandraketop",
+			"MassWinterHunterTop",
+			"Masswoodlandcamosweater",
+			"MassCamoHoodie",
+			"MassOrelTopgreen"
+
+			//Mass jackets
+			"MassCUUquiltedJacket",
+			"Massurbancamom65",
+			"MassWinterCUUJacket",
+			"MassWinterBDUJacket",
+			"MassTUhikingjacket",
+			"MassNBCJacketYellow",
+			"MassBlackJacket",
+			"MassBeigeJacket"
+
+			//Mass Vest
+			"Mass_PressVestBlack",
+			"Masswoodlandcamovest",
+			"MassSmershvestcomplete",
+			"MassSmershvestWintercomplete",
+			"MassUKAssVestWinter",
+			"MassPlateCarrierHolster_Black",
+			"MassPlateCarrierHolster_PartizanM",
+			"MassPlateCarrierHolster_Winter",
+			"MassPlateCarrierHolster_ODG",
+			"MassPlateCarrierPouches_Black",
+			"MassPlateCarrierPouches_PartizanM",
+			"MassPlateCarrierPouches_Winter",
+			"MassPlateCarrierPouches_ODG",
+			"MassPlateCarrier_PartizanM",
+			"MassPlateCarrier_Black",
+			"MassPlateCarrier_Winter",
+			"MassPlateCarrier_ODG",
+			"MassHeavyPlateVest_ODG",
+			"MassHeavyPlateVest_Winter",
+			"MassHeavyPlateVest_Black",
+			"MassHeavyPlateVest_PartizanM",
+			"MassHeavyPlateVest_Beige",
+			"MassSmershvestWW2complete",
+			"MassSmershvestblackcomplete"
+
+			//Mass Bottoms
+			"MassNBCpantsYellow",
+			"MassBlackGorkabottom",
+			"MassGorkaInvertWinterPants",
+			"MassGorkaInvertWoodlandPants",
+			"MassGorkaInvertFlecktarnPants",
+			"MassTropicamPants",
+			"Masswoodlandcargopants",
+			"Massurbancamocargopants",
+			"Massjeanshorts",
+			"MassMandrakebottom",
+			"MassWinterCUUPants",
+			"MassWinterBDUPants",
+			"MassWinterHunterPants",
+			"Massorelpantsgreen",
+			"MassSM90Pants",
+			"MassSM90WPants"
+
+			//Mass Boots 
+			"MassNBCbootsYellow"
+
+			//Mass Gloves
+			"MassNBCglovesBlue",
+			"MassBlackYellowMB"
+
+			//Mass Backpacks
+			"Massczech",
+			"MassczechWinter",
+			"MassWinterTortilla",
+			"MasscamoTaloon",
+			"MasscamoTaloon1",
+			"Massbrownhuntingbp",
+			"Massblackhuntingbp",
+			"MassWinterHuntingbp",
+			"MassSmersh",
+			"MassSmershwinter",
+			"MassCoyoteBPUrban",
+			"MassCanvasBag",
+			"MassMolleBagBlack",
+			"MassMolleBagDesert",
+			"MassMolleBagGorka",
+			"Massbag",
+			"Massbag2",
+			"Massbag3",
+			"Massbag4",
+			"Massmedbag",
+			"Massmedbag_blue",
+			"Massmedbag_green",
+			"MassSmershblack",
+			"MassImprovisedBag_Black",
+			"MassImprovisedBag_Blue",
+			"MassImprovisedBag_Green",
+			"MassImprovisedBag_Orange",
+			"MassImprovisedBag_Pink",
+			"MassImprovisedBag_Red",
+			"MassImprovisedBag_Yellow",
+			"MassImprovisedBag_Woodland",
+			"MassImprovisedBag_Partizan",
+			"MassImprovisedBag_Urban",
+			"MassMedical_Bag",
+			"MassMedical_Bag_Blue",
+			"MassMedical_Bag_Green",
+			"Massproxychar",
+			"MassNBC_Bag"
+
+			//Mass Hats 
+			"Massurbancamohat",
+			"MasscamoBooniehat",
+			"MassBeigeUshanka",
+			"MassHuntingCowboyhat",
+
+			//Mass Hoods 
+			"MassWinterHuntingHood",
+			"MassNBChoodYellow",
+
+			//Mass Ghille
+			"MassGhillieSuitWoodland",
+			"MassGhillieSuitMossy",
+			"MassGhillieSuitSnow",
+			"MassGhillieTopWoodland",
+			"MassGhillieTopMossy",
+			"MassGhillieTopSnow",
+			"MassGhillieHood_Woodland",
+			"MassGhillieHood_Snowy",
+			"MassGhillieHoodMossy",
+			"MassGhillieSuitBoxWoodland",
+			"MassGhillieSuitBoxMossy",
+			"MassGhillieSuitBoxWinter",
+			"MassGhillieTopBoxWoodland",
+			"MassGhillieTopBoxWinter",
+			"MassGhillieTopBoxMossy",
+			"MassWinterGhillieWrap",
+
+			//Mass Armbands
+			"MassArmband_TU",
+			"MassArmband_NCR",
+			"MassArmband_snowBDU",
+			"MassArmband_PartizanM",
+			"MassArmband_Mandrake",
+			"MassArmband_Woodland",
+			"MassArmband_Urban",
+			"MassArmband_Orel",
+			"MassArmband_BWS",
+			"MassArmband_BT"
+
+			//Mass Raincoat
+			"MassRainCoatcourier_Black",
+			"MassRainCoatcourier_Blue",
+			"MassRainCoatcourier_Green",
+			"MassRainCoatcourier_Orange",
+			"MassRainCoatcourier_Pink",
+			"MassRainCoatcourier_Red",
+			"MassRainCoatcourier_Yellow",
+			"MassRainCoatcourier_Woodland",
+			"MassRainCoatcourier_Partizan",
+			"MassRainCoatcourier_Urban"
+
+			//Mass Random
+			"Massblackgp5",
+			"Massmichblack",
+			"MassToolbelt"
+
+
+
+
+
+
+
+
+
+
+
