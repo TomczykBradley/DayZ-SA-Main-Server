@@ -1,0 +1,49 @@
+<VehicleParts> OffroadHatchback		// Vehicle Classname
+	SparkPlug						// Classname of Item to attach when Vehicle gets bought
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HatchbackDoors_CoDriver
+	HatchbackDoors_Driver
+	HatchbackHood
+	HatchbackTrunk
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	
+<VehicleParts> CivilianSedan
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	CivSedanDoors_Driver
+	CivSedanDoors_CoDriver
+	CivSedanDoors_BackLeft
+	CivSedanDoors_BackRight
+	CivSedanHood
+	CivSedanTrunk
+	CivSedanWheel
+	CivSedanWheel
+	CivSedanWheel
+	CivSedanWheel
+
+//<VehicleParts> V3S_Chassis
+//	V3SWheel
+//	V3SWheel
+//	V3SWheel
+//	V3SWheel
+//	V3SWheelDouble
+//	V3SWheelDouble
+//	V3SWheelDouble
+//	V3SWheelDouble
+//	TruckBattery
+//	HeadlightH7
+//	HeadlightH7
+//	V3SHood_Blue
+//	V3SDoors_Driver
+//	V3SDoors_CoDriver
+	
+<FileEnd>							// This has to be on the End of this File and is very importand!
