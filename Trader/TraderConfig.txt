@@ -258,17 +258,17 @@
 		SVD,					W,		2000,	1200
 
 	<Category> Mass Weapons
-		MassAR500,				W, 		500, 	100
-		MassSVT40,				W, 		500, 	100	
-		MassPPSH41,				W, 		500, 	100	
-		MassScout556,			W, 		500, 	100	
-		Massm300,				W, 		500, 	100	
-		MassKivaari,			W, 		500, 	100	
-		MassB52,				W, 		500, 	100	
-		MassPpskn,				W, 		500, 	100	
-		MassM110,				W, 		500, 	100	
-		MassM4A1,				W, 		500, 	100	
-		Massarmsan,				W, 		500, 	100		
+		MassAR500,				W, 		500, 	100 //plate Carrier
+		MassSVT40,				W, 		1000, 	400	
+		MassPPSH41,				W, 		800, 	200	
+		MassScout556,			W, 		2500, 	500	
+		Massm300,				W, 		15000, 	5000	//408 Cheytack
+		MassKivaari,			W, 		10000, 	2500	
+		MassB52,				W, 		2500, 	500	
+		MassPpskn,				W, 		3000, 	1200	
+		MassM110,				W, 		10000, 	3000	
+		MassM4A1,				W, 		1500, 	500	
+		Massarmsan,				W, 		800, 	200		
 
 		
 <Trader> Weapon Supplies
@@ -361,11 +361,14 @@
 		PistolSuppressor,		*,		150,	75
 		AK_Suppressor,			*,		250,	125
 		M4_Suppressor,			*,		250,	125
+		MassScoutSuppressor,	*,		700,	250
+		shotgun_Suppressor,		*,		450,	125
+		MassSuppressor308,		*,		1500,	500
 
-	<Category> Mass Supressors
-		MassScoutSuppressor,	*,		150,	75
-		shotgun_Suppressor,		*,		150,	75
-		MassSuppressor308,		*,		150,	75
+	/*<Category> Mass Supressors
+		MassScoutSuppressor,	*,		700,	250
+		shotgun_Suppressor,		*,		450,	125
+		MassSuppressor308,		*,		1500,	500*/
 
 		
 	<Category> Compensators
@@ -376,12 +379,12 @@
 		Universallight,			*,		120,	60
 
 	<Category> Conversion Kits
-		Mass762x39_ConversionKit *,		1000,	400
-		Mass556x45_ConversionKit *, 	500,	200
+		Mass762x39_ConversionKit,	*,		1000,	400
+		Mass556x45_ConversionKit,	*, 		500,	200
 
 	<Category> Weapons Clean/Repair Kits
-		MassAR500pair 			*,		2500,	500
-		WeaponCleaningKit		*,		1500,	500
+		MassAR500pair,				*,		2500,	500
+		WeaponCleaningKit,			*,		1500,	500
 
 	
 
