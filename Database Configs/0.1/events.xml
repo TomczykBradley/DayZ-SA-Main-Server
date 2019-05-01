@@ -882,7 +882,7 @@
     </event>
     <event name="VehicleV3S">
         <waves>0</waves>
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <min>8</min>
         <max>15</max>
         <lifetime>300</lifetime>

@@ -1,4 +1,5 @@
-5/1/2019 Patch Notes:
+Patch Notes 0.1:
+5/1/2019
  - Added 5 UH1Y crashed with 15 min and 20 max loot spots
  - Disabled the Mi8 heli crash
  - Army, Police, and Prisoner zombies have 80 spawn points with 50 min and 250 max zombies
