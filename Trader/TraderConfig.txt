@@ -351,7 +351,8 @@
 		PUScopeOptic,			*,		900,	500
 		HuntingOptic,			*,		1000,	550
 		PSO1Optic,				*,		1100,	600	
-		KazuarOptic,			*,		2200,	1400
+		KazuarOptic,			*,		2200,	650
+		MosinLRS,				*,		2500,	700
 	
 	<Category> Supressors
 		PistolSuppressor,		*,		150,	75
