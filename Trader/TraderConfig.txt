@@ -261,7 +261,6 @@
 		MassScout556,			W, 		2500, 	500
 
 	<Category> Mass Weapons
-		MassAR500,				W, 		500, 	100  <!--plate Carrier-->
 		MassSVT40,				W, 		1000, 	400	
 		MassPPSH41,				W, 		800, 	200	
 		MassScout556,			W, 		2500, 	500	
@@ -395,7 +394,6 @@
 	<Category> Mass Accessories
 		Massblackgp5,	*,		17,		8
 		Massmichblack,	*,		17,		8
-		MassToolbelt,	*,		17,		8
 
 	
 	<Category> Glasses
@@ -450,7 +448,6 @@
 
 	<Category> Mass Gloves
 		MassNBCglovesBlue,			*,		65,		20
-		MassBlackYellowMB,			*,		65,		20
 
 	<Category> Hats & Caps
 		MedicalScrubsHat_Blue,	*,		2,		1
@@ -637,19 +634,10 @@
 		TacticalShirt_Olive,	*,		40,		12
 
 	<Category> Mass Shirts
-		MassSM90Top,			*,		40,		12
-		MassSM90WTop,			*,		40,		12
-		MassBlackGorkatop,		*,		40,		12
-		MassGorkaInvertWinterTop,		*,		40,		12
-		MassGorkaInvertWoodlandTop,		*,		40,		12
-		MassGorkaInvertFlecktarnTop,	*,		40,		12
-		MassUSww2top,			*,		40,		12
 		MassGokuShirt,			*,		40,		12
 		MassTropicamTop,		*,		40,		12
 		MassMandraketop,		*,		40,		12
 		MassWinterHunterTop,	*,		40,		12
-		Masswoodlandcamosweater,		*,		40,		12
-		MassCamoHoodie,			*,		40,		12
 
 			
 
@@ -666,6 +654,10 @@
 		Hoodie_Brown,			*,		30,		6
 		Hoodie_Black,			*,		30,		6
 		Hoodie_Green,			*,		35,		7
+
+	<Category> Mass Hoodies & Sweater
+		Masswoodlandcamosweater,	*,		40,		12
+		MassCamoHoodie,				*,		40,		12
 		
 	<Category> Vests
 		ReflexVest,				*,		5,		1
@@ -688,14 +680,6 @@
 		MassSmershvestcomplete,				*,		250,	80
 		MassSmershvestWintercomplete,		*,		250,	80
 		MassUKAssVestWinter,				*,		250,	80
-		MassPlateCarrierHolster_Black,		*,		250,	80
-		MassPlateCarrierHolster_PartizanM,	*,		250,	80
-		MassPlateCarrierHolster_Winter,		*,		250,	80
-		MassPlateCarrierHolster_ODG,		*,		250,	80
-		MassPlateCarrierPouches_Black,		*,		250,	80
-		MassPlateCarrierPouches_PartizanM,	*,		250,	80
-		MassPlateCarrierPouches_Winter,		*,		250,	80
-		MassPlateCarrierPouches_ODG,		*,		250,	80
 		MassPlateCarrier_PartizanM,			*,		250,	80
 		MassPlateCarrier_Black,				*,		250,	80
 		MassPlateCarrier_Winter,			*,		250,	80
@@ -802,26 +786,21 @@
 		NBCJacketGray,			*,		250,	80
 
 	<Category> Mass Jackets
-		MassCUUquiltedJacket,		*,		250,	80
-		Massurbancamom65,			*,		250,	80
-		MassWinterCUUJacket,		*,		250,	80
-		MassWinterBDUJacket,		*,		250,	80
-		MassTUhikingjacket,			*,		250,	80
-		MassNBCJacketYellow,		*,		250,	80
-		MassBlackJacket,			*,		250,	80
-		MassBeigeJacket,			*,		250,	80
-	
-	<Category> Mass Raincoats
-		MassRainCoatcourier_Black,		*,		250,	80
-		MassRainCoatcourier_Blue,		*,		250,	80
-		MassRainCoatcourier_Green,		*,		250,	80
-		MassRainCoatcourier_Orange,		*,		250,	80
-		MassRainCoatcourier_Pink,		*,		250,	80
-		MassRainCoatcourier_Red,		*,		250,	80
-		MassRainCoatcourier_Yellow,		*,		250,	80
-		MassRainCoatcourier_Woodland,	*,		250,	80
-		MassRainCoatcourier_Partizan,	*,		250,	80
-		MassRainCoatcourier_Urban,		*,		250,	80
+		MassCUUquiltedJacket,			*,		250,	80
+		Massurbancamom65,				*,		250,	80
+		MassWinterCUUJacket,			*,		250,	80
+		MassWinterBDUJacket,			*,		250,	80
+		MassTUhikingjacket,				*,		250,	80
+		MassNBCJacketYellow,			*,		250,	80
+		MassBlackJacket,				*,		250,	80
+		MassBeigeJacket,				*,		250,	80
+		MassSM90Top,					*,		40,		12
+		MassSM90WTop,					*,		40,		12
+		MassBlackGorkatop,				*,		40,		12
+		MassGorkaInvertWinterTop,		*,		40,		12
+		MassGorkaInvertWoodlandTop,		*,		40,		12
+		MassGorkaInvertFlecktarnTop,	*,		40,		12
+		MassUSww2top,					*,		40,		12
 
 
 	<Category> Skirts & Dresses
@@ -993,7 +972,7 @@
 		MilitaryBoots_Black,	*,		110,	35
 		NBCBootsGray,			*,		150,	50
 
-	<Category>
+	<Category> Mass Boots  
 		MassNBCbootsYellow,			*,		150,	50
 
 
@@ -1042,8 +1021,20 @@
 	<Category> Holster & Pouches
 		ChestHolster,			*,		60,		20
 		PlateCarrierHolster,	*,		60,		20
-		PlateCarrierPouches,	*,		100,		20
-		
+		PlateCarrierPouches,	*,		100,	20
+
+	<Category> Mass Holster & Pouches
+		MassToolbelt,						*,		17,		8
+		MassPlateCarrierPouches_Black,		*,		17,		8
+		MassPlateCarrierPouches_PartizanM,	*,		17,		8
+		MassPlateCarrierPouches_Winter,		*,		17,		8
+		MassPlateCarrierPouches_ODG,		*,		17,		8
+		MassPlateCarrierHolster_Black,		*,		250,	80
+		MassPlateCarrierHolster_PartizanM,	*,		250,	80
+		MassPlateCarrierHolster_Winter,		*,		250,	80
+		MassPlateCarrierHolster_ODG,		*,		250,	80
+
+
 	<Category> Bags
 		ChildBag_Red,			*,		20,		5
 		ChildBag_Blue,			*,		20,		5
@@ -1114,8 +1105,18 @@
 		MassMedical_Bag,			*,		500,	220
 		MassMedical_Bag_Blue,		*,		500,	220
 		MassMedical_Bag_Green,		*,		500,	220
-		Massproxychar,				*,		500,	220
 		MassNBC_Bag,				*,		500,	220
+		MassBlackYellowMB,			*,		65,		20
+		MassRainCoatcourier_Black,		*,		250,	80
+		MassRainCoatcourier_Blue,		*,		250,	80
+		MassRainCoatcourier_Green,		*,		250,	80
+		MassRainCoatcourier_Orange,		*,		250,	80
+		MassRainCoatcourier_Pink,		*,		250,	80
+		MassRainCoatcourier_Red,		*,		250,	80
+		MassRainCoatcourier_Yellow,		*,		250,	80
+		MassRainCoatcourier_Woodland,	*,		250,	80
+		MassRainCoatcourier_Partizan,	*,		250,	80
+		MassRainCoatcourier_Urban,		*,		250,	80
 
 	/*<Category> Handmade
 		LeatherGloves_Beige,	*,		0,		0
