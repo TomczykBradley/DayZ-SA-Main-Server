@@ -379,11 +379,6 @@
 	
 
 <Trader> Clothing Trader
-
-	<Category> Mass Accessories
-		Massblackgp5,	*,		17,		8
-		Massmichblack,	*,		17,		8
-
 	
 	<Category> Glasses
 		SportGlasses_Orange,	*,		17,		8
@@ -572,6 +567,7 @@
 		BallisticHelmet_UN,		*,		250,	80
 		BallisticHelmet_Black,	*,		300,	100
 		BallisticHelmet_Green,	*,		350,	110
+		Massmichblack,			*,		17,		8
 
 	<Category> Masks
 		SurgicalMask,			*,		15,		3
@@ -591,6 +587,7 @@
 		Balaclava3Holes_Green,	*,		60,		15
 		WeldingMask,			*,		70,		20
 		GP5GasMask,				*,		120,	40
+		Massblackgp5,			*,		17,		8
 
 	<Category> Shirts
 		TShirt_OrangeWhiteStripes,*,	8,		2
