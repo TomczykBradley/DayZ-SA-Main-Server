@@ -30,20 +30,20 @@
 	CivSedanWheel
 	CivSedanWheel
 
-//<VehicleParts> V3S_Chassis
-//	V3SWheel
-//	V3SWheel
-//	V3SWheel
-//	V3SWheel
-//	V3SWheelDouble
-//	V3SWheelDouble
-//	V3SWheelDouble
-//	V3SWheelDouble
-//	TruckBattery
-//	HeadlightH7
-//	HeadlightH7
-//	V3SHood_Blue
-//	V3SDoors_Driver
-//	V3SDoors_CoDriver
+<!--<VehicleParts> V3S_Chassis
+	V3SWheel
+	V3SWheel
+	V3SWheel
+	V3SWheel
+	V3SWheelDouble
+	V3SWheelDouble
+	V3SWheelDouble
+	V3SWheelDouble
+	TruckBattery
+	HeadlightH7
+	HeadlightH7
+	V3SHood_Blue
+	V3SDoors_Driver
+	V3SDoors_CoDriver -->
 	
 <FileEnd>							// This has to be on the End of this File and is very importand!

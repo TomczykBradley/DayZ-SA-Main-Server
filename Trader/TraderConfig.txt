@@ -80,7 +80,7 @@
 		SalineBag,				*,		15,		8
 		BloodBagEmpty,			*,		18,		10
 		FirstAidKit,			*,		20,		10
-		//Defibrillator,		*,		35, 	20
+		//Defibrillator,		*,		35, 	20 
 		
 	<Category> Medications
 		CharcoalTablets,		*,		2,		1
@@ -234,10 +234,9 @@
 		
 	<Category> Rifles
 		Izh18,					W,		350,	175
-		Mosin9130,				W,		400,	200
-		CZ527,					W,		500,	250
-		Winchester70,			W,		500,	250
 		SKS,					W,		600,	300
+		FAL,					W,		1000,	450
+		MassSVT40,				W, 		1000, 	400
 		
 	<Category> Shotguns
 		Mp133Shotgun,			W,		500,	250
@@ -248,27 +247,31 @@
 		MP5K,					W,		1000,	450		
 		
 	<Category> Assault Rifles
-		FAL,					W,		1000,	450
 		AKM,					W,		1500,	750
 		M4A1,					W,		1500,	750
+
 		
 	//<Category> Light Machine Guns
 		
 	<Category> Sniper Rifles
 		SVD,					W,		2000,	1200
+		Mosin9130,				W,		400,	200
+		CZ527,					W,		500,	250
+		Winchester70,			W,		500,	250
+		MassScout556,			W, 		2500, 	500
 
 	<Category> Mass Weapons
-		MassAR500,				W, 		500, 	100 //plate Carrier
+		MassAR500,				W, 		500, 	100  <!--plate Carrier-->
 		MassSVT40,				W, 		1000, 	400	
 		MassPPSH41,				W, 		800, 	200	
 		MassScout556,			W, 		2500, 	500	
-		Massm300,				W, 		15000, 	5000	//408 Cheytack
-		MassKivaari,			W, 		10000, 	2500	
+		Massm300,				W, 		15000, 	5000	<!--408 Cheytack-->
+		MassKivaari,			W, 		10000, 	2500	<!-- 300. Sniper-->
 		MassB52,				W, 		2500, 	500	
-		MassPpskn,				W, 		3000, 	1200	
+		MassPpskn,				W, 		3000, 	1200	<!--Modded Ak Verient-->
 		MassM110,				W, 		10000, 	3000	
-		MassM4A1,				W, 		1500, 	500	
-		Massarmsan,				W, 		800, 	200		
+		MassM4A1,				W, 		1500, 	500		<!--7.62 M4-A1-->
+		Massarmsan,				W, 		800, 	200		<!--Shotgun-->
 
 		
 <Trader> Weapon Supplies
@@ -368,7 +371,7 @@
 	/*<Category> Mass Supressors
 		MassScoutSuppressor,	*,		700,	250
 		shotgun_Suppressor,		*,		450,	125
-		MassSuppressor308,		*,		1500,	500*/
+		MassSuppressor308,		*,		1500,	500 
 
 		
 	<Category> Compensators
@@ -382,8 +385,7 @@
 		Mass762x39_ConversionKit,	*,		1000,	400
 		Mass556x45_ConversionKit,	*, 		500,	200
 
-	<Category> Weapons Clean/Repair Kits
-		MassAR500pair,				*,		2500,	500
+	<Category> Weapons Cleaning Kits
 		WeaponCleaningKit,			*,		1500,	500
 
 	
