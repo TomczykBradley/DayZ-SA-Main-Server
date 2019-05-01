@@ -6,3 +6,7 @@ Patch Notes 0.1:
  - Removed both Ambient Sounds
  - Deer & Wolf have 1 spawn each
  - Cow, Goat, Pig, Sheep, and WildBoar have a max of 5 spawns 
+
+ Patch Notes 0.2:
+ 5/1/2019
+ -  Added MosinLRPS Scope to types.xml
