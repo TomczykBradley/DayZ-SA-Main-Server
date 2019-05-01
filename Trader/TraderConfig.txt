@@ -391,6 +391,13 @@
 	
 
 <Trader> Clothing Trader
+
+	<Category> Mass Accessories
+		Massblackgp5,	*,		17,		8
+		Massmichblack,	*,		17,		8
+		MassToolbelt,	*,		17,		8
+
+	
 	<Category> Glasses
 		SportGlasses_Orange,	*,		17,		8
 		SportGlasses_Blue,		*,		18,		9
@@ -412,6 +419,18 @@
 		Armband_White,			*,		15,		5
 		Armband_Black,			*,		15,		5
 		Armband_Green,			*,		15,		5
+
+	<Category> Mass Armbands 
+		MassArmband_TU,			*,		15,		5
+		MassArmband_NCR,		*,		15,		5
+		MassArmband_snowBDU,	*,		15,		5
+		MassArmband_PartizanM,	*,		15,		5
+		MassArmband_Mandrake,	*,		15,		5
+		MassArmband_Woodland,	*,		15,		5
+		MassArmband_Urban,		*,		15,		5
+		MassArmband_Orel,		*,		15,		5
+		MassArmband_BWS,		*,		15,		5
+		MassArmband_BT,			*,		15,		5
 		
 	<Category> Gloves
 		SurgicalGloves_LightBlue,*,		5,		1
@@ -428,6 +447,10 @@
 		OMNOGloves_Gray,		*,		40,		12
 		OMNOGloves_Brown,		*,		40,		12
 		NBCGlovesGray,			*,		65,		20
+
+	<Category> Mass Gloves
+		MassNBCglovesBlue,			*,		65,		20
+		MassBlackYellowMB,			*,		65,		20
 
 	<Category> Hats & Caps
 		MedicalScrubsHat_Blue,	*,		2,		1
@@ -499,7 +522,17 @@
 		Ushanka_Blue,			*,		50,		15
 		Ushanka_Black,			*,		50,		15
 		Ushanka_Green,			*,		55,		18
-		NBCHoodGray,			*,		100,	30		
+		NBCHoodGray,			*,		100,	30	
+
+	<Category> Mass Hats
+		Massurbancamohat,			*,		100,	30
+		MasscamoBooniehat,			*,		100,	30
+		MassBeigeUshanka,			*,		100,	30
+		MassHuntingCowboyhat,		*,		100,	30
+
+	<Category> Mass Hoods 
+		MassWinterHuntingHood,			*,		100,	30
+		MassNBChoodYellow,			*,		100,	30
 
 	<Category> Helmets
 		ConstructionHelmet_Yellow,*,	30,		7
@@ -601,7 +634,24 @@
 		TacticalShirt_Grey,		*,		36,		10
 		TacticalShirt_Tan,		*,		37,		10
 		TacticalShirt_Black,	*,		38,		10
-		TacticalShirt_Olive,	*,		40,		12	
+		TacticalShirt_Olive,	*,		40,		12
+
+	<Category> Mass Shirts
+		MassSM90Top,			*,		40,		12
+		MassSM90WTop,			*,		40,		12
+		MassBlackGorkatop,		*,		40,		12
+		MassGorkaInvertWinterTop,		*,		40,		12
+		MassGorkaInvertWoodlandTop,		*,		40,		12
+		MassGorkaInvertFlecktarnTop,	*,		40,		12
+		MassUSww2top,			*,		40,		12
+		MassGokuShirt,			*,		40,		12
+		MassTropicamTop,		*,		40,		12
+		MassMandraketop,		*,		40,		12
+		MassWinterHunterTop,	*,		40,		12
+		Masswoodlandcamosweater,		*,		40,		12
+		MassCamoHoodie,			*,		40,		12
+
+			
 
 	<Category> Hoodies & Sweater
 		Sweater_Red,			*,		20,		5
@@ -631,6 +681,33 @@
 		HighCapacityVest_Black,	*,		200,	60
 		HighCapacityVest_Olive,	*,		230,	75
 		PlateCarrierVest,		*,		250,	80
+
+	<Category> Mass Vests
+		Mass_PressVestBlack,				*,		250,	80
+		Masswoodlandcamovest,				*,		250,	80
+		MassSmershvestcomplete,				*,		250,	80
+		MassSmershvestWintercomplete,		*,		250,	80
+		MassUKAssVestWinter,				*,		250,	80
+		MassPlateCarrierHolster_Black,		*,		250,	80
+		MassPlateCarrierHolster_PartizanM,	*,		250,	80
+		MassPlateCarrierHolster_Winter,		*,		250,	80
+		MassPlateCarrierHolster_ODG,		*,		250,	80
+		MassPlateCarrierPouches_Black,		*,		250,	80
+		MassPlateCarrierPouches_PartizanM,	*,		250,	80
+		MassPlateCarrierPouches_Winter,		*,		250,	80
+		MassPlateCarrierPouches_ODG,		*,		250,	80
+		MassPlateCarrier_PartizanM,			*,		250,	80
+		MassPlateCarrier_Black,				*,		250,	80
+		MassPlateCarrier_Winter,			*,		250,	80
+		MassPlateCarrier_ODG,				*,		250,	80
+		MassHeavyPlateVest_ODG,				*,		250,	80
+		MassHeavyPlateVest_Winter,			*,		250,	80
+		MassHeavyPlateVest_Black,			*,		250,	80
+		MassHeavyPlateVest_PartizanM,		*,		250,	80
+		MassHeavyPlateVest_Beige,			*,		250,	80
+		MassSmershvestWW2complete,			*,		250,	80
+		MassSmershvestblackcomplete,		*,		250,	80
+		
 
 	<Category> Jackets & Coats
 		LabCoat,				*,		10,		2
@@ -723,6 +800,29 @@
 		USMCJacket_Desert,		*,		140,	45
 		USMCJacket_Woodland,	*,		155,	55
 		NBCJacketGray,			*,		250,	80
+
+	<Category> Mass Jackets
+		MassCUUquiltedJacket,		*,		250,	80
+		Massurbancamom65,			*,		250,	80
+		MassWinterCUUJacket,		*,		250,	80
+		MassWinterBDUJacket,		*,		250,	80
+		MassTUhikingjacket,			*,		250,	80
+		MassNBCJacketYellow,		*,		250,	80
+		MassBlackJacket,			*,		250,	80
+		MassBeigeJacket,			*,		250,	80
+	
+	<Category> Mass Raincoats
+		MassRainCoatcourier_Black,		*,		250,	80
+		MassRainCoatcourier_Blue,		*,		250,	80
+		MassRainCoatcourier_Green,		*,		250,	80
+		MassRainCoatcourier_Orange,		*,		250,	80
+		MassRainCoatcourier_Pink,		*,		250,	80
+		MassRainCoatcourier_Red,		*,		250,	80
+		MassRainCoatcourier_Yellow,		*,		250,	80
+		MassRainCoatcourier_Woodland,	*,		250,	80
+		MassRainCoatcourier_Partizan,	*,		250,	80
+		MassRainCoatcourier_Urban,		*,		250,	80
+
 
 	<Category> Skirts & Dresses
 		Skirt_Yellow,			*,		30,		10
@@ -820,6 +920,24 @@
 		GorkaPants_Autumn,		*,		130,	40
 		GorkaPants_Summer,		*,		130,	40
 		NBCPantsGray,			*,		200,	65
+
+	<Category> Mass Pants
+		MassNBCpantsYellow,				*,		200,	65
+		MassBlackGorkabottom,			*,		200,	65
+		MassGorkaInvertWinterPants,		*,		200,	65
+		MassGorkaInvertWoodlandPants,	*,		200,	65
+		MassGorkaInvertFlecktarnPants,	*,		200,	65
+		MassTropicamPants,				*,		200,	65
+		Masswoodlandcargopants,			*,		200,	65
+		Massurbancamocargopants,		*,		200,	65
+		Massjeanshorts,					*,		200,	65
+		MassMandrakebottom,				*,		200,	65
+		MassWinterCUUPants,				*,		200,	65
+		MassWinterBDUPants,				*,		200,	65
+		MassWinterHunterPants,			*,		200,	65
+		Massorelpantsgreen,				*,		200,	65
+		MassSM90Pants,					*,		200,	65
+		MassSM90WPants,					*,		200,	65
 	
 	<Category> Shoes & Boots
 		AthleticShoes_Blue,		*,		17,		4
@@ -875,6 +993,10 @@
 		MilitaryBoots_Black,	*,		110,	35
 		NBCBootsGray,			*,		150,	50
 
+	<Category>
+		MassNBCbootsYellow,			*,		150,	50
+
+
 	<Category> Ghillie
 		// Keep in Mind that Players can also 
 		// craft Ghillie Clothing and sell them!
@@ -893,6 +1015,24 @@
 		GhillieSuit_Mossy,		*,		1000,	300
 		GhillieSuit_Tan,		*,		1000,	300
 		GhillieSuit_Woodland,	*,		1000,	300
+
+	<Category> Mass Ghillie
+		MassGhillieSuitWoodland,		*,		220,	70
+		MassGhillieSuitMossy,			*,		220,	70
+		MassGhillieSuitSnow,			*,		220,	70
+		MassGhillieTopWoodland,			*,		220,	70
+		MassGhillieTopMossy,			*,		220,	70
+		MassGhillieTopSnow,				*,		220,	70
+		MassGhillieHood_Woodland,		*,		220,	70
+		MassGhillieHood_Snowy,			*,		220,	70
+		MassGhillieHoodMossy,			*,		220,	70
+		MassGhillieSuitBoxWoodland,		*,		220,	70
+		MassGhillieSuitBoxMossy,		*,		220,	70
+		MassGhillieSuitBoxWinter,		*,		220,	70
+		MassGhillieTopBoxWoodland,		*,		220,	70
+		MassGhillieTopBoxWinter,		*,		220,	70
+		MassGhillieTopBoxMossy,			*,		220,	70
+		MassWinterGhillieWrap,			*,		220,	70
 		
 	//<Category> Seasonal
 		//SantasBeard,			*,		15,		0
@@ -937,40 +1077,80 @@
 		AliceBag_Green,			*,		400,	150
 		AliceBag_Camo,			*,		500,	220
 
-	//<Category> Handmade
-		//LeatherGloves_Beige,	*,		0,		0
-		//LeatherGloves_Black,	*,		0,		0
-		//LeatherGloves_Brown,	*,		0,		0
-		//LeatherGloves_Natural,*,		0,		0
-		//LeatherHat_Beige,		*,		0,		0
-		//LeatherHat_Black,		*,		0,		0
-		//LeatherHat_Brown,		*,		0,		0
-		//LeatherHat_Natural,	*,		0,		0
-		//LeatherShirt_Natural,	*,		0,		0
-		//LeatherStorageVest_Beige,*,	0,		0
-		//LeatherStorageVest_Black,*,	0,		0
-		//LeatherStorageVest_Brown,*,	0,		0
-		//LeatherStorageVest_Natural,*,	0,		0
-		//LeatherJacket_Beige,	*,		0,		0
-		//LeatherJacket_Black,	*,		0,		0
-		//LeatherJacket_Brown,	*,		0,		0
-		//LeatherJacket_Natural,*,		0,		0
-		//LeatherPants_Beige,	*,		0,		0
-		//LeatherPants_Black,	*,		0,		0
-		//LeatherPants_Brown,	*,		0,		0
-		//LeatherPants_Natural,	*,		0,		0
-		//LeatherShoes_Beige,	*,		0,		0
-		//LeatherShoes_Black,	*,		0,		0
-		//LeatherShoes_Brown,	*,		0,		0
-		//LeatherShoes_Natural,	*,		0,		0
-		//CourierBag,			*,		0,		0
-		//FurCourierBag,		*,		0,		0
-		//FurImprovisedBag,		*,		0,		0
-		//ImprovisedBag,		*,		0,		0
-		//LeatherSack_Beige,	*,		0,		0
-		//LeatherSack_Black,	*,		0,		0
-		//LeatherSack_Brown,	*,		0,		0
-		//LeatherSack_Natural,	*,		0,		0
+	<Category> Mass Backpacks
+		Massczech,					*,		500,	220
+		MassczechWinter,			*,		500,	220
+		MassWinterTortilla,			*,		500,	220
+		MasscamoTaloon,				*,		500,	220
+		MasscamoTaloon1,			*,		500,	220
+		Massbrownhuntingbp,			*,		500,	220
+		Massblackhuntingbp,			*,		500,	220
+		MassWinterHuntingbp,		*,		500,	220
+		MassSmersh,					*,		500,	220
+		MassSmershwinter,			*,		500,	220
+		MassCoyoteBPUrban,			*,		500,	220
+		MassCanvasBag,				*,		500,	220
+		MassMolleBagBlack,			*,		500,	220
+		MassMolleBagDesert,			*,		500,	220
+		MassMolleBagGorka,			*,		500,	220
+		Massbag,					*,		500,	220
+		Massbag2,					*,		500,	220
+		Massbag3,					*,		500,	220
+		Massbag4,					*,		500,	220
+		Massmedbag,					*,		500,	220
+		Massmedbag_blue,			*,		500,	220
+		Massmedbag_green,			*,		500,	220
+		MassSmershblack,			*,		500,	220
+		MassImprovisedBag_Black,	*,		500,	220
+		MassImprovisedBag_Blue,		*,		500,	220
+		MassImprovisedBag_Green,	*,		500,	220
+		MassImprovisedBag_Orange,	*,		500,	220
+		MassImprovisedBag_Pink,		*,		500,	220
+		MassImprovisedBag_Red,		*,		500,	220
+		MassImprovisedBag_Yellow,	*,		500,	220
+		MassImprovisedBag_Woodland,	*,		500,	220
+		MassImprovisedBag_Partizan,	*,		500,	220
+		MassImprovisedBag_Urban,	*,		500,	220
+		MassMedical_Bag,			*,		500,	220
+		MassMedical_Bag_Blue,		*,		500,	220
+		MassMedical_Bag_Green,		*,		500,	220
+		Massproxychar,				*,		500,	220
+		MassNBC_Bag,				*,		500,	220
+
+	/*<Category> Handmade
+		LeatherGloves_Beige,	*,		0,		0
+		LeatherGloves_Black,	*,		0,		0
+		LeatherGloves_Brown,	*,		0,		0
+		LeatherGloves_Natural,*,		0,		0
+		LeatherHat_Beige,		*,		0,		0
+		LeatherHat_Black,		*,		0,		0
+		LeatherHat_Brown,		*,		0,		0
+		LeatherHat_Natural,	*,		0,		0
+		LeatherShirt_Natural,	*,		0,		0
+		LeatherStorageVest_Beige,*,	0,		0
+		LeatherStorageVest_Black,*,	0,		0
+		LeatherStorageVest_Brown,*,	0,		0
+		LeatherStorageVest_Natural,*,	0,		0
+		LeatherJacket_Beige,	*,		0,		0
+		LeatherJacket_Black,	*,		0,		0
+		LeatherJacket_Brown,	*,		0,		0
+		LeatherJacket_Natural,*,		0,		0
+		LeatherPants_Beige,	*,		0,		0
+		LeatherPants_Black,	*,		0,		0
+		LeatherPants_Brown,	*,		0,		0
+		LeatherPants_Natural,	*,		0,		0
+		LeatherShoes_Beige,	*,		0,		0
+		LeatherShoes_Black,	*,		0,		0
+		LeatherShoes_Brown,	*,		0,		0
+		LeatherShoes_Natural,	*,		0,		0
+		CourierBag,			*,		0,		0
+		FurCourierBag,		*,		0,		0
+		FurImprovisedBag,		*,		0,		0
+		ImprovisedBag,		*,		0,		0
+		LeatherSack_Beige,	*,		0,		0
+		LeatherSack_Black,	*,		0,		0
+		LeatherSack_Brown,	*,		0,		0
+		LeatherSack_Natural,	*,		0,		0*/
 	
 <Trader> Vehicles Trader
 	<Category> Vehicles
@@ -1005,6 +1185,6 @@
 		//V3SWheelDouble,		*,		1200,	220	
 		
 	<Category> Keys
-		VehicleKeyDuplicate,	K,		2000,	-1 		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
+		VehicleKeyDuplicate,	K,		5000,	-1 		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
 		
 <FileEnd>												// This has to be on the End of this File and is very importand!
