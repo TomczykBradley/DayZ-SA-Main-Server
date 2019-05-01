@@ -240,18 +240,24 @@
 		
 	<Category> Shotguns
 		Mp133Shotgun,			W,		500,	250
+		Massarmsan,				W, 		800, 	200	
 		
 	<Category> Submachine Guns
 		CZ61,					W,		700,	300
 		UMP45,					W,		800,	350
-		MP5K,					W,		1000,	450		
+		MP5K,					W,		1000,	450
+		MassPPSH41,				W, 		800, 	200	
 		
 	<Category> Assault Rifles
 		AKM,					W,		1500,	750
 		M4A1,					W,		1500,	750
+		MassB52,				W, 		2500, 	500	
+		MassPpskn,				W, 		3000, 	1200	//Modded Ak Verient
+		MassM4A1,				W, 		1500, 	500		//7.62 M4-A1
 
-		
-	//<Category> Light Machine Guns
+	<Category> DMR
+		MassM110,				W, 		10000, 	3000
+
 		
 	<Category> Sniper Rifles
 		SVD,					W,		2000,	1200
@@ -259,18 +265,10 @@
 		CZ527,					W,		500,	250
 		Winchester70,			W,		500,	250
 		MassScout556,			W, 		2500, 	500
+		Massm300,				W, 		15000, 	5000	//408 Cheytack
+		MassKivaari,			W, 		10000, 	2500	//.338 Sniper
 
-	<Category> Mass Weapons
-		MassSVT40,				W, 		1000, 	400	
-		MassPPSH41,				W, 		800, 	200	
-		MassScout556,			W, 		2500, 	500	
-		Massm300,				W, 		15000, 	5000	<!--408 Cheytack-->
-		MassKivaari,			W, 		10000, 	2500	<!-- 300. Sniper-->
-		MassB52,				W, 		2500, 	500	
-		MassPpskn,				W, 		3000, 	1200	<!--Modded Ak Verient-->
-		MassM110,				W, 		10000, 	3000	
-		MassM4A1,				W, 		1500, 	500		<!--7.62 M4-A1-->
-		Massarmsan,				W, 		800, 	200		<!--Shotgun-->
+	//<Category> Light Machine Guns
 
 		
 <Trader> Weapon Supplies
@@ -298,8 +296,6 @@
 		AmmoBox_556x45_20Rnd,	*,		80,		60
 		AmmoBox_762x39_20Rnd,	*,		80,		60
 		AmmoBox_762x54_20Rnd,	*,		200,	120
-
-	<Category> Mass Ammo
 		AmmoBox_408Chey,	    *,		300,	100
 		AmmoBox_12gaBB,	        *,		300,	100
 		AmmoBox_338,			*,		300,	100
@@ -319,8 +315,6 @@
 		Mag_AKM_30Rnd,			M,		220,	110
 		Mag_STANAG_30Rnd,		M,		220,	110
 		Mag_SVD_10Rnd,			M,		250,	125
-
-	<Category> Mass Magazines
 		Scout556mag,			M,		30,		15
 		kivaarimag,			    M,		30,		15
 		Mass308STANAG,			M,		30,		15
@@ -366,11 +360,6 @@
 		MassScoutSuppressor,	*,		700,	250
 		shotgun_Suppressor,		*,		450,	125
 		MassSuppressor308,		*,		1500,	500
-
-	/*<Category> Mass Supressors
-		MassScoutSuppressor,	*,		700,	250
-		shotgun_Suppressor,		*,		450,	125
-		MassSuppressor308,		*,		1500,	500 
 
 		
 	<Category> Compensators
