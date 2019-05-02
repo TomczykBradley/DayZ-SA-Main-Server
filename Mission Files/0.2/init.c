@@ -50,7 +50,7 @@ void main()
 	SpawnObject("Land_Wreck_Uaz", "2536.022461 194.073181 5108.675781", "0.000000 0.000000 0.000000");
 	SpawnObject("Land_Wreck_Uaz", "2485.884033 194.188248 5088.708984", "0.000000 0.000000 0.000000");
 
-	GetTesting().ExportProxyData("7500 0 7500", 10000);  //Centre of map, radius of how far to go out and find buildings
+	//GetTesting().ExportProxyData("7500 0 7500", 10000);  //Centre of map, radius of how far to go out and find buildings
 	
 	//INIT WEATHER BEFORE ECONOMY INIT------------------------
 	Weather weather = g_Game.GetWeather();
