@@ -1,0 +1,27 @@
+Idea List:
+
+    Loot:
+        - Green Long Containers (Land_Container_1Mo):
+            Ammo = High Chance
+            Magazine = Medium Chance
+            Weapon = Low Chance
+                - Pistols
+                - Shotguns
+                - Submachine guns
+        - Barracks (Land_Mil_Barracks1, Land_Mil_Barracks2, Land_Mil_Barracks3, Land_Mil_Barracks4, Land_Mil_Barracks5, Land_Mil_Barracks6, Land_Mil_Barracks_Round)
+            Weapons = High Chance
+                - High Level weapons (Snipers, LMG, DMR) = Low Chance
+                - Mediums Level Weapons (Assult Rifles) = High Chance
+                - Low Level Weapons (Pistols, Shotguns, Rifles, Submachine guns) = High Chance
+            Magazine = Low Chance
+            Military Clothing = Low Chance
+                - Vest
+                - Helmets
+                - Backpacks
+                - boots
+                - Pants
+                - Jackets
+                - Tops
+                - Gloves
+                - Carrier Plates = Rare 
+
