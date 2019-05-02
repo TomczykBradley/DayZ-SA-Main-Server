@@ -1,0 +1,3 @@
+Patch 0.1
+    4/28/19
+        - Added All Mass items to cfgspawnabletypes.xml

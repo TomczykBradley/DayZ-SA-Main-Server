@@ -1,3 +1,7 @@
 Patch 0.1:
 	4/28/19
-    	- Added -profiles=serverLogs -mod=@CF;@Trader;@Community-Framework;@Community-Online-Tools;@VanillaPlusPlusMap;@Mass'sManyItemOverhaul;
+    	[run.bat] - Added -profiles=serverLogs -mod=@CF;@Trader;@Community-Framework;@Community-Online-Tools;@VanillaPlusPlusMap;@Mass'sManyItemOverhaul;
+
+Patch 0.2
+	5/1/19
+		[run.bat]- Added -scrAllowFileWrite  @Sullen-Skies-for-Chernarus-Plus;@dbo_surfaces;@Increased-Lumens;@MosinScope;
