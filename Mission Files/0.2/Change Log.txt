@@ -3,4 +3,4 @@ Patch 0.1
         - Added All Mass items to cfgspawnabletypes.xml
 Patch 0.2
     5/2/19
-        - Added Custom Military Zone in Zelenogorsk Military (Still needs work) 
+        - Added Custom Military Zone in Zelenogorsk Military (Still needs work)

@@ -21,7 +21,7 @@ Idea List:
                 - Jackets
                 - Tops
                 - Gloves
-                - Carrier Plates = Rare 
+                - Carrier Plates = Rare
 
         - ATC (Land_Mil_ATC_Small, Land_Mil_ATC_Big)
             Military Clothing = High Chance
@@ -37,4 +37,12 @@ Idea List:
             Magazines = High Chance
             Ammo = Medium Chance
             Attachments = Medium Chance
+
+        //Civilian Loot
+        - Houses (Too Many to put here)
+            - Civilian Clothing = High Chance
+            - Tools = Low Chance
+            - Food = Medium Chance
+            
+
 

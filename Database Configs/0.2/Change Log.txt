@@ -5,7 +5,7 @@ Patch Notes 0.1:
  - Army, Police, and Prisoner zombies have 80 spawn points with 50 min and 250 max zombies
  - Removed both Ambient Sounds
  - Deer & Wolf have 1 spawn each
- - Cow, Goat, Pig, Sheep, and WildBoar have a max of 5 spawns 
+ - Cow, Goat, Pig, Sheep, and WildBoar have a max of 5 spawns
 
  Patch Notes 0.2:
  5/1/2019
