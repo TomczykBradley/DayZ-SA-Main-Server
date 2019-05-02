@@ -1,0 +1,9 @@
+ul.List {
+    display: block;
+    margin-top: -20px;
+}
+
+.Heading {
+    text-align: center;
+    text-decoration: underline;
+}
