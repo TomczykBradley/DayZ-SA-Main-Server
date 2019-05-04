@@ -5,11 +5,11 @@ Patch 0.2
     5/2/19
         - Added Custom Military Zone in Zelenogorsk Military (Still needs work)
     5/4/19
-        - Reworking Catagory Loot (Added MilitaryWeapons, MilitaryClothing, MilitaryAccessories, MilitaryAttachments) to cfglimitsdefinition.xml
+        - Added Catagory(Added MilitaryWeapons, MilitaryClothing, MilitaryAccessories, MilitaryAttachments, MilitaryTools, MilitaryAmmo, MilitaryMagazines) to cfglimitsdefinition.xml
         - Added "Military" UsageFlag for overall Military loot spawn area (Custom military zones)
         - Edited ammoCivil(Arrows, Stick), ammoPolice(45_ACP Ammo/Boxed, 9x19 Ammo/Boxed, .380 Ammo/Boxed, .357 Ammo/Boxed, 12GagePellets Ammo, .22 Ammo/Boxed), ammoArmy(All Default Shotgun/rifle rounds/boxes)    
         - Ammo Spawns = 0.75% (Unboxed = 75% & Boxed = 25% )
         - Removed ammo for non military/police presets in cfgrandompresets.xml
         - Removed ammo from mixArmy, Added 308Win/9.39 rounds to mixHunter
-        - 
+        - Removed "weapons" Catagory from cfglimitsdefinition.xml
 

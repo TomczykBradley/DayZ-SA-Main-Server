@@ -9,7 +9,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
+        <tag name="shelves">
         <usage name="Military"/>
     </type>
     <type name="MosinLRS">
@@ -21,7 +22,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
 		<usage name="Hunting"/>
     </type>
@@ -38,7 +39,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
+        <tag name="shelves">
         <usage name="Military"/>
     </type>
     <type name="AK74_WoodBttstck">
@@ -50,7 +52,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
+        <tag name="shelves">
         <usage name="Military"/>
     </type>
     <type name="AKM">
@@ -62,10 +65,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryWeapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="AK_FoldingBttstck">
         <nominal>20</nominal>
@@ -76,7 +77,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
+        <tag name="shelves">
         <usage name="Military"/>
     </type>
     <type name="AK_FoldingBttstck_Black">
@@ -96,7 +98,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
+        <tag name="shelves">
         <usage name="Military"/>
     </type>
     <type name="AK_PlasticBttstck_Black">
@@ -116,7 +119,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
+        <tag name="shelves">
         <usage name="Military"/>
     </type>
     <type name="AK_RailHndgrd">
@@ -128,17 +132,23 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <tag name="shelves"/>
         <usage name="Military"/>
     </type>
     <type name="AK_RailHndgrd_Black">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="MilitaryAttachments"/>
+        <tag name="shelves">
+        <usage name="Military"/>
     </type>
     <type name="AK_RailHndgrd_Green">
         <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="MilitaryAttachments"/>
+        <tag name="shelves">
+        <usage name="Military"/>
     </type>
     <type name="AK_Suppressor">
         <nominal>5</nominal>
@@ -149,7 +159,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
+        <tag name="shelves">
         <usage name="Military"/>
     </type>
     <type name="AK_WoodBttstck">
@@ -161,7 +172,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
+        <tag name="shelves">
         <usage name="Military"/>
     </type>
     <type name="AK_WoodBttstck_Black">
@@ -181,7 +193,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
+        <tag name="shelves">
         <usage name="Military"/>
     </type>
     <type name="AK_WoodHndgrd_Black">
@@ -213,7 +226,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-        <category name="containers"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="AliceBag_Green">
@@ -225,7 +238,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-        <category name="containers"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="AmanitaMushroom">
@@ -241,7 +254,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-        <category name="containers"/>
+        <category name="MilitaryTools"/>
         <usage name="Military"/>
     </type>
     <type name="AmmoBox_00buck_10rnd">
@@ -253,12 +266,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAmmo"/>
+        <usage name="Military"/>
         <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
+        <usage name="Prison"/>
     </type>
     <type name="AmmoBox_12gaSlug_10Rnd">
         <nominal>100</nominal>
@@ -269,15 +280,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <category name="MilitaryAmmo"/>
+        <usage name="Military"/>
     </type>
     <type name="AmmoBox_308Win_20Rnd">
         <nominal>30</nominal>
@@ -288,11 +292,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAmmo"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value name="Hunting"/>
     </type>
     <type name="AmmoBox_380_35rnd">
         <nominal>60</nominal>
@@ -303,10 +305,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAmmo"/>
         <usage name="Police"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Prison"/>
     </type>
     <type name="AmmoBox_45ACP_25rnd">
         <nominal>30</nominal>
@@ -317,8 +318,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
+        <category name="MilitaryAmmo"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="AmmoBox_556x45_20Rnd">
         <nominal>30</nominal>
@@ -329,10 +331,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAmmo"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="AmmoBox_762x39_20Rnd">
         <nominal>30</nominal>
@@ -343,10 +343,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAmmo"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="AmmoBox_762x54_20Rnd">
         <nominal>30</nominal>
@@ -357,12 +355,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAmmo"/>
         <usage name="Military"/>
-        <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="AmmoBox_9x19_25rnd">
         <nominal>30</nominal>
@@ -373,11 +367,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
+        <category name="MilitaryAmmo"/>
+        <usage name="Prison"/>
         <usage name="Police"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
     </type>
     <type name="Ammo_12gaPellets">
         <nominal>100</nominal>
@@ -388,15 +380,9 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAmmo"/>
         <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Prison"/>
     </type>
     <type name="Ammo_12gaSlug">
         <nominal>60</nominal>
@@ -407,15 +393,10 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAmmo"/>
         <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Prison"/>
+        <usage name="Military"/>
     </type>
     <type name="Ammo_308Win">
         <nominal>50</nominal>
@@ -426,13 +407,9 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
+        <category name="MilitaryAmmo"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value name="Military"/>
     </type>
     <type name="Ammo_380">
         <nominal>120</nominal>
@@ -443,10 +420,9 @@
         <quantmax>90</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAmmo"/>
         <usage name="Police"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Prison"/>
     </type>
     <type name="Ammo_45ACP">
         <nominal>120</nominal>
@@ -457,8 +433,9 @@
         <quantmax>90</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
+        <category name="MilitaryAmmo"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="Ammo_556x45">
         <nominal>60</nominal>
@@ -469,11 +446,9 @@
         <quantmax>90</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAmmo"/>
+        <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Ammo_762x39">
         <nominal>150</nominal>
@@ -484,13 +459,9 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAmmo"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
     </type>
     <type name="Ammo_762x54">
         <nominal>120</nominal>
@@ -501,15 +472,9 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAmmo"/>
         <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Military"/>
     </type>
     <type name="Ammo_9x19">
         <nominal>120</nominal>
@@ -520,11 +485,9 @@
         <quantmax>50</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
+        <category name="MilitaryAmmo"/>
+        <usage name="Prison"/>
         <usage name="Police"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
     </type>
     <type name="Animal_BosTaurusF_Brown">
         <nominal>0</nominal>
@@ -815,7 +778,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="containers"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="AssaultBag_Green">
@@ -827,7 +790,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="containers"/>
+        <category name="MilitaryAccessoriess"/>
         <usage name="Military"/>
     </type>
     <type name="AssaultBag_Ttsko">
@@ -839,7 +802,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="containers"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="AthleticShoes_Black">
@@ -974,9 +937,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <category name="MilitaryClothing"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="Balaclava3Holes_Blue">
         <nominal>20</nominal>
@@ -987,9 +951,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <category name="MilitaryClothing"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="Balaclava3Holes_Green">
         <nominal>15</nominal>
@@ -1000,9 +965,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <category name="MilitaryClothing"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="BalaclavaMask_Beige">
         <nominal>15</nominal>
@@ -1013,11 +979,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="shelves"/>
-        <usage name="Industrial"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <category name="MilitaryClothing"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="BalaclavaMask_Black">
         <nominal>20</nominal>
@@ -1028,11 +993,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="shelves"/>
-        <usage name="Industrial"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <category name="MilitaryClothing"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="BalaclavaMask_Blackskull">
         <nominal>10</nominal>
@@ -1043,11 +1007,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="shelves"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="BalaclavaMask_Blue">
         <nominal>30</nominal>
@@ -1058,11 +1021,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="shelves"/>
-        <usage name="Industrial"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <category name="MilitaryClothing"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="BalaclavaMask_Green">
         <nominal>20</nominal>
@@ -1073,14 +1035,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="shelves"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <usage name="Industrial"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="BalaclavaMask_Pink">
         <nominal>30</nominal>
@@ -1091,11 +1049,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="shelves"/>
-        <usage name="Industrial"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <category name="MilitaryClothing"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="BalaclavaMask_White">
         <nominal>30</nominal>
@@ -1106,11 +1063,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <tag name="shelves"/>
-        <usage name="Industrial"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <category name="MilitaryClothing"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="BallisticHelmet_Black">
         <lifetime>5600</lifetime>
@@ -1129,7 +1085,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="Bandage">
@@ -1472,10 +1428,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
+        <category name="MilitaryTools"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value name="Police"/>
+        <value name="Prison"/>
     </type>
     <type name="Battery9V">
         <nominal>130</nominal>
@@ -1513,7 +1469,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="BDUPants">
@@ -1525,7 +1481,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="BeanieHat_Beige">
@@ -2716,12 +2672,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <category name="MilitaryAccessories"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="ChickenBreastMeat">
         <lifetime>3600</lifetime>
@@ -2883,7 +2836,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Military"/>
     </type>
@@ -2896,7 +2849,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Military"/>
     </type>
@@ -2909,7 +2862,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Military"/>
     </type>
@@ -2922,7 +2875,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Military"/>
     </type>
@@ -2935,7 +2888,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Military"/>
     </type>
@@ -2948,7 +2901,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
+        <category name="MilitaryTools"/>
         <tag name="shelves"/>
         <usage name="Military"/>
     </type>
@@ -3146,7 +3099,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-        <category name="containers"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="CoyoteBag_Green">
@@ -3158,7 +3111,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-        <category name="containers"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="Crowbar">
@@ -3183,12 +3136,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <category name="MilitaryWeapons"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="CZ61">
         <nominal>30</nominal>
@@ -3199,8 +3149,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryWeapons"/>
         <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="CZ75">
         <nominal>100</nominal>
@@ -3211,13 +3162,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryWeapons"/>
         <usage name="Police"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Prison"/>
     </type>
     <type name="DallasMask">
         <nominal>0</nominal>
@@ -3726,9 +3673,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
-        <category name="weapons"/>
+        <category name="MilitaryWeapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
     </type>
     <type name="Fal_FoldingBttstck">
         <nominal>10</nominal>
@@ -3739,10 +3685,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Fal_OeBttstck">
         <nominal>10</nominal>
@@ -3753,10 +3697,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Fence">
         <lifetime>3888000</lifetime>
@@ -4029,10 +3971,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachmentss"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="FNX45">
         <nominal>20</nominal>
@@ -4043,10 +3985,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryWeapons"/>
         <usage name="Military"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
     </type>
     <type name="FurCourierBag">
         <lifetime>7200</lifetime>
@@ -4081,11 +4021,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value name="Prison"/>
+        <value name="Police"/>
     </type>
     <type name="GhillieAtt_Mossy">
         <lifetime>7200</lifetime>
@@ -4328,7 +4267,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="GorkaEJacket_Flat">
@@ -4340,7 +4279,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="GorkaEJacket_PautRev">
@@ -4352,7 +4291,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="GorkaEJacket_Summer">
@@ -4364,7 +4303,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="GorkaHelmet">
@@ -4376,12 +4315,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="GorkaHelmetVisor">
         <nominal>8</nominal>
@@ -4392,12 +4328,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="GorkaPants_Autumn">
         <nominal>5</nominal>
@@ -4408,7 +4341,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="GorkaPants_Flat">
@@ -4420,7 +4353,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="GorkaPants_PautRev">
@@ -4432,7 +4365,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="GorkaPants_Summer">
@@ -4444,7 +4377,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="GP5GasMask">
@@ -4456,9 +4389,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
         <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="GreatHelm">
         <nominal>8</nominal>
@@ -4527,7 +4461,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
+        <category name="MilitaryTools"/>
         <tag name="shelves"/>
         <usage name="Police"/>
         <usage name="Prison"/>
@@ -4541,7 +4475,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
+        <category name="MilitaryTools"/>
         <tag name="shelves"/>
         <usage name="Police"/>
         <usage name="Prison"/>
@@ -4728,9 +4662,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
     </type>
     <type name="HighCapacityVest_Olive">
         <nominal>5</nominal>
@@ -4741,9 +4674,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
     </type>
     <type name="HikingBootsLow_Beige">
         <nominal>30</nominal>
@@ -5230,12 +5162,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <tag name="floor"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="HuntingVest">
         <nominal>0</nominal>
@@ -5246,7 +5175,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Farm"/>
         <usage name="Hunting"/>
     </type>
@@ -5267,13 +5196,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <category name="MilitaryWeapons"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
         <usage name="Hunting"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
     </type>
     <type name="Jeans_Black">
         <nominal>0</nominal>
@@ -5560,7 +5486,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Military"/>
     </type>
@@ -5586,7 +5512,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Military"/>
     </type>
@@ -5599,7 +5525,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Military"/>
     </type>
@@ -5612,7 +5538,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Military"/>
     </type>
@@ -5625,11 +5551,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier4"/>
     </type>
     <type name="KitchenKnife">
         <nominal>100</nominal>
@@ -5654,7 +5578,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
     </type>
     <type name="LabCoat">
@@ -5682,7 +5606,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-        <category name="tools"/>
+        <category name="MilitaryTools"/>
         <usage name="Military"/>
     </type>
     <type name="Land_Wreck_Volha_Police">
@@ -5864,7 +5788,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
+        <category name="MilitaryTools"/>
+        <usage name="Military"/>
     </type>
     <type name="LongWoodenStick">
         <lifetime>1800</lifetime>
@@ -5891,10 +5816,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryWeapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="M4A1_Black">
         <lifetime>7200</lifetime>
@@ -5913,7 +5836,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
     </type>
     <type name="M4_CQBBttstck">
@@ -5925,7 +5848,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
     </type>
     <type name="M4_MPBttstck">
@@ -5937,7 +5860,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
     </type>
     <type name="M4_MPHndgrd">
@@ -5949,7 +5872,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
     </type>
     <type name="M4_OEBttstck">
@@ -5961,7 +5884,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
     </type>
     <type name="M4_PlasticHndgrd">
@@ -5973,7 +5896,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
     </type>
     <type name="M4_RISHndgrd">
@@ -5985,7 +5908,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
     </type>
     <type name="M4_RISHndgrd_Black">
@@ -6005,12 +5928,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="M4_T3NRDSOptic">
         <nominal>10</nominal>
@@ -6021,10 +5941,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="M65Jacket_Black">
         <nominal>5</nominal>
@@ -6035,10 +5953,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="M65Jacket_Khaki">
         <nominal>5</nominal>
@@ -6049,10 +5965,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="M65Jacket_Olive">
         <nominal>8</nominal>
@@ -6063,10 +5977,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="M65Jacket_Tan">
         <nominal>8</nominal>
@@ -6077,10 +5989,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="M68Optic">
         <nominal>20</nominal>
@@ -6091,7 +6001,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
     </type>
     <type name="Machete">
@@ -6103,8 +6013,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Farm"/>
+        <category name="MilitaryTools"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="MacrolepiotaMushroom">
         <lifetime>900</lifetime>
@@ -6119,10 +6031,8 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryMagazines"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Mag_CZ527_5rnd">
         <nominal>100</nominal>
@@ -6133,13 +6043,9 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <category name="MilitaryMagazines"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="Mag_CZ61_20Rnd">
         <nominal>40</nominal>
@@ -6150,8 +6056,9 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryMagazines"/>
         <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="Mag_CZ75_15Rnd">
         <nominal>100</nominal>
@@ -6162,14 +6069,10 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryMagazines"/>
         <tag name="shelves"/>
         <usage name="Police"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Prison"/>
     </type>
     <type name="Mag_FAL_20Rnd">
         <nominal>15</nominal>
@@ -6180,11 +6083,8 @@
         <quantmax>70</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryMagazines"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Mag_FNX45_15Rnd">
         <nominal>40</nominal>
@@ -6195,10 +6095,10 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryMagazines"/>
         <usage name="Military"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <value name="Police"/>
+        <value name="Prison"/>
     </type>
     <type name="Mag_IJ70_8Rnd">
         <nominal>150</nominal>
@@ -6209,13 +6109,10 @@
         <quantmax>70</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryMagazines"/>
         <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="Mag_MP5_30Rnd">
         <nominal>40</nominal>
@@ -6226,10 +6123,10 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryMagazines"/>
         <usage name="Military"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <value name="Police"/>
+        <value name="Prison"/>
     </type>
     <type name="Mag_STANAG_30Rnd">
         <nominal>30</nominal>
@@ -6240,10 +6137,8 @@
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryMagazines"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Mag_SVD_10Rnd">
         <nominal>15</nominal>
@@ -6254,9 +6149,8 @@
         <quantmax>90</quantmax>
         <cost>1000</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryMagazines"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
     </type>
     <type name="Mag_UMP_25Rnd">
         <nominal>40</nominal>
@@ -6267,10 +6161,10 @@
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryMagazines"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <value name="Police"/>
+        <value name="Prison"/>
     </type>
     <type name="MakarovIJ70">
         <nominal>150</nominal>
@@ -6281,13 +6175,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryWeapons"/>
         <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="ManSuit_Beige">
         <nominal>20</nominal>
@@ -6587,10 +6478,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="MilitaryBeret_CDF">
         <nominal>5</nominal>
@@ -6601,11 +6490,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="MilitaryBeret_ChDKZ">
         <nominal>5</nominal>
@@ -6616,11 +6502,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="MilitaryBeret_NZ">
         <nominal>4</nominal>
@@ -6631,7 +6514,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="MilitaryBeret_Red">
@@ -6643,11 +6526,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="MilitaryBeret_UN">
         <nominal>4</nominal>
@@ -6658,7 +6538,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="MilitaryBoots_Beige">
@@ -6670,7 +6550,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Military"/>
     </type>
@@ -6683,7 +6563,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Military"/>
     </type>
@@ -6696,7 +6576,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Town"/>
     </type>
@@ -6709,7 +6589,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Military"/>
     </type>
@@ -6722,7 +6602,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Town"/>
     </type>
@@ -6860,12 +6740,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <category name="MilitaryWeapons"/>
+        <usage name="Military"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="Mosin9130_Black">
         <lifetime>7200</lifetime>
@@ -6888,9 +6765,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <category name="MilitaryAttachments"/>
+        <usage name="Military"/>
     </type>
     <type name="MotoHelmet_Black">
         <nominal>30</nominal>
@@ -7062,14 +6938,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryWeapons"/>
         <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <usage name="Prison"/>
     </type>
     <type name="MP5K">
         <nominal>20</nominal>
@@ -7080,10 +6951,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryWeapons"/>
         <usage name="Military"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
+        <value name="Police"/>
+        <value name="Prison"/>
     </type>
     <type name="MP5k_StockBttstck">
         <nominal>15</nominal>
@@ -7094,8 +6965,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
+        <value name="Police"/>
+        <value name="Prison"/>
     </type>
     <type name="MP5_Compensator">
         <nominal>8</nominal>
@@ -7106,12 +6979,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
-        <usage name="Police"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value name="Police"/>
+        <value name="Prison"/>
     </type>
     <type name="MP5_PlasticHndgrd">
         <nominal>10</nominal>
@@ -7122,9 +6993,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
-        <usage name="Police"/>
+        <value name="Police"/>
+        <value name="Prison"/>
     </type>
     <type name="MP5_RailHndgrd">
         <nominal>10</nominal>
@@ -7135,9 +7007,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
-        <usage name="Police"/>
+        <value name="Police"/>
+        <value name="Prison"/>
     </type>
     <type name="Nail">
         <lifetime>7200</lifetime>
@@ -7170,10 +7043,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Military"/>
-        <usage name="Medic"/>
     </type>
     <type name="NBCGlovesGray">
         <nominal>4</nominal>
@@ -7184,9 +7056,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <usage name="Medic"/>
     </type>
     <type name="NBCHoodGray">
         <nominal>4</nominal>
@@ -7197,9 +7068,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <usage name="Medic"/>
     </type>
     <type name="NBCJacketGray">
         <nominal>4</nominal>
@@ -7210,9 +7080,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <usage name="Medic"/>
     </type>
     <type name="NBCPantsGray">
         <nominal>4</nominal>
@@ -7223,9 +7092,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <usage name="Medic"/>
     </type>
     <type name="Netting">
         <nominal>50</nominal>
@@ -7294,10 +7162,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
+        <category name="MilitaryTools"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value name="Police"/>
+        <value name="Prison"/>
     </type>
     <type name="OfficerHat">
         <nominal>10</nominal>
@@ -7308,7 +7176,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <tag name="shelves"/>
         <usage name="Military"/>
     </type>
@@ -7331,12 +7199,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
         <usage name="Police"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="OMNOGloves_Gray">
         <nominal>10</nominal>
@@ -7347,12 +7212,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
         <usage name="Police"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="OrienteeringCompass">
         <nominal>50</nominal>
@@ -7571,11 +7433,11 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
+        <category name="MilitaryTools"/>
         <tag name="shelves"/>
         <usage name="Military"/>
         <usage name="Police"/>
-        <usage name="Medic"/>
+        <usage name="Prison"/>
         <usage name="Firefighter"/>
     </type>
     <type name="Pickaxe">
@@ -7622,11 +7484,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Pipe">
         <nominal>80</nominal>
@@ -7649,9 +7508,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
         <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="PlantMaterial">
         <lifetime>1800</lifetime>
@@ -7686,11 +7546,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="PlateCarrierPouches">
         <nominal>10</nominal>
@@ -7701,11 +7559,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
     </type>
     <type name="PlateCarrierVest">
         <nominal>10</nominal>
@@ -7716,7 +7572,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="PleurotusMushroom">
@@ -7750,9 +7606,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <tag name="shelves"/>
         <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="PoliceJacket">
         <nominal>15</nominal>
@@ -7763,8 +7620,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="PoliceJacketOrel">
         <nominal>15</nominal>
@@ -7775,8 +7633,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="PolicePants">
         <nominal>15</nominal>
@@ -7787,8 +7646,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="PolicePantsOrel">
         <nominal>15</nominal>
@@ -7799,8 +7659,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="PoliceVest">
         <nominal>15</nominal>
@@ -7811,8 +7672,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="PortableGasLamp">
         <nominal>40</nominal>
@@ -7908,11 +7770,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothings"/>
         <usage name="Police"/>
-        <usage name="Town"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Prison"/>
     </type>
     <type name="PressVest_LightBlue">
         <nominal>15</nominal>
@@ -7923,11 +7783,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Police"/>
-        <usage name="Town"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Prison"/>
     </type>
     <type name="PrisonerCap">
         <nominal>5</nominal>
@@ -7978,7 +7836,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
     </type>
     <type name="Pumpkin">
@@ -8039,9 +7897,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <usage name="Military"/>
-        <usage name="Hunting"/>
     </type>
     <type name="QuiltedJacket_Black">
         <nominal>25</nominal>
@@ -8375,11 +8232,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
+        <category name="MilitaryTools"/>
         <tag name="shelves"/>
         <usage name="Military"/>
         <usage name="Police"/>
-        <usage name="Industrial"/>
         <usage name="Hunting"/>
     </type>
     <type name="ReflexVest">
@@ -8908,10 +8764,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryWeapons"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="SlacksPants_Beige">
         <nominal>20</nominal>
@@ -9075,7 +8929,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
-        <category name="containers"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="SmershVest">
@@ -9087,11 +8941,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Sneakers_Black">
         <nominal>40</nominal>
@@ -9332,7 +9183,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="StartKitIV">
@@ -9384,8 +9235,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Military"/>
+        <category name="MilitaryTools"/>
+        <usage name="Prison"/>
         <usage name="Police"/>
     </type>
     <type name="SurgicalGloves_Blue">
@@ -9457,9 +9308,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1"/>
-        <category name="weapons"/>
+        <category name="MilitaryWeapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
     </type>
     <type name="Sweater_Blue">
         <nominal>35</nominal>
@@ -9553,7 +9403,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="TacticalGloves_Black">
@@ -9565,7 +9415,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="TacticalGloves_Green">
@@ -9577,7 +9427,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="TacticalGoggles">
@@ -9589,11 +9439,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="TacticalShirt_Black">
         <nominal>10</nominal>
@@ -9604,10 +9451,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="TacticalShirt_Grey">
         <nominal>10</nominal>
@@ -9618,7 +9463,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="TacticalShirt_Olive">
@@ -9630,7 +9475,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="TacticalShirt_Tan">
@@ -9642,7 +9487,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="TaloonBag_Blue">
@@ -9706,11 +9551,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessoriess"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="TannedLeather">
         <lifetime>14400</lifetime>
@@ -9804,13 +9647,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
         <usage name="Police"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value name="Prison"/>
     </type>
     <type name="Tomato">
         <nominal>20</nominal>
@@ -9856,7 +9696,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="containers"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="TrackSuitJacket_Black">
@@ -10151,12 +9991,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="TTsKOJacket_Camo">
         <nominal>10</nominal>
@@ -10167,7 +10003,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="TTSKOPants">
@@ -10179,7 +10015,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="TunaCan">
@@ -10210,7 +10046,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="UKAssVest_Camo">
@@ -10222,7 +10058,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="UKAssVest_Khaki">
@@ -10234,7 +10070,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="UKAssVest_Olive">
@@ -10246,7 +10082,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="UMP45">
@@ -10258,10 +10094,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryWeapons"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
+        <value name="Police"/>
+        <value name="Prison"/>
     </type>
     <type name="UndergroundStash">
         <lifetime>3888000</lifetime>
@@ -10276,13 +10112,11 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryAttachments"/>
         <tag name="shelves"/>
         <usage name="Military"/>
         <usage name="Police"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value name="Prison"/>
     </type>
     <type name="Ushanka_Black">
         <nominal>35</nominal>
@@ -10338,7 +10172,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="USMCJacket_Woodland">
@@ -10350,7 +10184,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="USMCPants_Desert">
@@ -10362,7 +10196,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="USMCPants_Woodland">
@@ -10374,7 +10208,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="V3SDoors_CoDriver">
@@ -10607,10 +10441,11 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
+        <category name="MilitaryTools"/>
         <usage name="Military"/>
         <usage name="Police"/>
         <usage name="Hunting"/>
+        <usage name="Prison"/>
     </type>
     <type name="WeldingMask">
         <nominal>10</nominal>
@@ -10709,11 +10544,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
+        <category name="MilitaryWeapons"/>
         <usage name="Hunting"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value name="Police"/>
+        <value name="Prison"/>
     </type>
     <type name="WolfMask">
         <nominal>0</nominal>
@@ -12767,10 +12601,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Zucchini">
         <nominal>10</nominal>
@@ -12813,11 +12645,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Police"/>
-        <usage name="Town"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <usage name="Prison"/>
     </type>
     <type name="MassBlackYellowMB">
         <nominal>30</nominal>
@@ -12841,9 +12671,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="containers"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <category name="MilitaryAccessories"/>
+        <usage name="Military"/>
     </type>
     <type name="MassBlackGorkatop">
         <nominal>10</nominal>
@@ -12854,7 +12683,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="MassBlackGorkabottom">
@@ -12866,7 +12695,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="Massjeanshorts">
@@ -12891,7 +12720,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="Masswoodlandcamosweater">
@@ -12903,7 +12732,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="Masswoodlandcargopants">
@@ -12915,7 +12744,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
     </type>
     <type name="MasscamoTaloon">
@@ -12927,7 +12756,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="containers"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="MassCUUquiltedJacket">
@@ -12939,10 +12768,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Massbrownhuntingbp">
         <nominal>15</nominal>
@@ -12953,7 +12780,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="containers"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Hunting"/>
     </type>
     <type name="Massurbancamohat">
@@ -12965,10 +12792,10 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Military"/>
+        <usage name="Hunting"/>
     </type>
     <type name="Massurbancamom65">
         <nominal>5</nominal>
@@ -12979,10 +12806,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Massurbancamocargopants">
         <nominal>10</nominal>
@@ -12993,11 +12818,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <Value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="MassTUhikingjacket">
         <nominal>8</nominal>
@@ -13008,11 +12830,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Military"/>
-        <Value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <Value name="Hunting"/>
     </type>
     <type name="Massoreltopgreen">
         <nominal>15</nominal>
@@ -13023,8 +12843,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="Massorelpantsgreen">
         <nominal>15</nominal>
@@ -13035,8 +12856,9 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <usage name="Police"/>
+        <usage name="Prison"/>
     </type>
     <type name="Massmichblack">
         <nominal>10</nominal>
@@ -13047,10 +12869,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Massblackgp5">
         <nominal>10</nominal>
@@ -13061,7 +12881,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="MassSmersh">
@@ -13073,7 +12893,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-        <category name="containers"/>
+        <category name="MilitaryAccessories"/>
         <usage name="Military"/>
     </type>
     <type name="MassUSww2top">
@@ -13085,7 +12905,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="clothes"/>
+        <category name="MilitaryClothing"/>
         <tag name="floor"/>
         <usage name="Military"/>
         <usage name="Medic"/>
