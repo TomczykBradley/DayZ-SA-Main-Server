@@ -9,6 +9,9 @@
         <category name="weapons"/>
         <category name="books"/>
         <category name="explosives"/>
+        <category name="MilitaryWeapons"/>
+        <category name="MilitaryClothing"/>
+        <category name="MilitaryAccessories"/>
     </categories>
     <tags>
         <tag name="floor"/>

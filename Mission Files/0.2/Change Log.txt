@@ -4,3 +4,6 @@ Patch 0.1
 Patch 0.2
     5/2/19
         - Added Custom Military Zone in Zelenogorsk Military (Still needs work)
+    5/4/19
+        - Reworking Catagory Loot (Added MilitaryWeapons, MilitaryClothing, MilitaryAccessories) to cfglimitsdefinition.xml
+        - Added "Military" UsageFlag for overall Military loot spawn area (Custom military zones)

@@ -13,6 +13,12 @@
         </user>
     </usageflags>
 
+    <usageflags>
+        <user name="Military">
+            <usage name="Military" />
+        </user>
+    </usageflags>
+
     <valueflags>
         <user name="Tier12">
             <value name="Tier1" />
