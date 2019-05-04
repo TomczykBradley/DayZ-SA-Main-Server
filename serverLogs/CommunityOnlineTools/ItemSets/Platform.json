@@ -1,0 +1,26 @@
+{
+    "Name": "Platform",
+    "ContainerClassName": "SeaChest",
+    "Items": [
+        {
+            "Item": "WoodenPlank",
+            "NumberOfStacks": 1,
+            "StackSize": 18
+        },
+        {
+            "Item": "Nail",
+            "NumberOfStacks": 1,
+            "StackSize": 30
+        },
+        {
+            "Item": "Hammer",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "Item": "DuctTape",
+            "NumberOfStacks": 5,
+            "StackSize": 100
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Name": "Fence Wood",
+    "ContainerClassName": "SeaChest",
+    "Items": [
+        {
+            "Item": "FenceKit",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "Item": "Woodenlog",
+            "NumberOfStacks": 1,
+            "StackSize": 2
+        },
+        {
+            "Item": "WoodenPlank",
+            "NumberOfStacks": 1,
+            "StackSize": 20
+        },
+        {
+            "Item": "Nail",
+            "NumberOfStacks": 1,
+            "StackSize": 56
+        },
+        {
+            "Item": "Hammer",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "Item": "Shovel",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "Item": "BarbedWire",
+            "NumberOfStacks": 2,
+            "StackSize": 1
+        },
+        {
+            "Item": "CamoNet",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "Item": "DuctTape",
+            "NumberOfStacks": 5,
+            "StackSize": 100
+        }
+    ]
+}

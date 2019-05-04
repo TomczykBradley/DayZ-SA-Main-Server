@@ -1,0 +1,20 @@
+{
+    "VehicleName": "CivilianHatchback",
+    "DisplayName": "CivilianHatchback",
+    "Parts": [
+        "CivHatchbackDoors_Driver",
+        "CivHatchbackDoors_Trunk",
+        "CivHatchbackDoors_Hood",
+        "CivHatchbackDoors_CoDriver",
+        "CivHatchbackDoors_Cargo01",
+        "CivHatchbackDoors_Cargo02",
+        "CivHatchbackWheel",
+        "CivHatchbackWheel",
+        "CivHatchbackWheel",
+        "CivHatchbackWheel",
+        "CarBattery",
+        "CarRadiator",
+        "EngineBelt",
+        "SparkPlug"
+    ]
+}
