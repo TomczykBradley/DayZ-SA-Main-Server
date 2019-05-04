@@ -101,29 +101,45 @@
 				<item name="Battery9V" chance="0.2" />
 				<item name="Flashlight" chance="0.2" />
 		</cargo>
-		<cargo chance="0.15" name="ammoCivil">
-				<item name="Ammo_380" chance="0.22" />
-				<item name="AmmoBox_380_35Rnd" chance="0.08" />
-				<item name="Ammo_9x19" chance="0.15" />
-				<item name="AmmoBox_9x19_25Rnd" chance="0.08" />
-				<item name="Ammo_762x39" chance="0.12" />
-				<item name="AmmoBox_762x39_20Rnd" chance="0.02" />
-				<item name="Ammo_762x54" chance="0.08" />
-				<item name="AmmoBox_762x54_20Rnd" chance="0.02" />
+			//Ammo Spawns = 0.75% (Unboxed = 75% Spawn chance & Boxed = 25% Spawn Chance)
+		<cargo chance="0.75" name="ammoCivil"> 
+				<item name="Ammo_ArrowBoned" chance="0.75" />
+				<item name="Ammo_ArrowPrimitive" chance="0.75" />
+				<item name="Ammo_SharpStick" chance="0.75" />
+				<item name="Ammo_ArrowComposite" chance="0.75" />
+				<item name="Ammo_ArrowBolt" chance="0.75" />
 		</cargo>
-		<cargo chance="0.3" name="ammoPolice">
-				<item name="Ammo_9x19" chance="0.3" />
-				<item name="AmmoBox_9x19_25Rnd" chance="0.1" />
-				<item name="Ammo_45ACP" chance="0.3" />
-				<item name="AmmoBox_45ACP_25Rnd" chance="0.1" />
+		<cargo chance="0.75" name="ammoPolice">
+				<item name="Ammo_45ACP" chance="0.75" />
+				<item name="Ammo_9x19" chance="0.75" />
+				<item name="Ammo_380" chance="0.75" />
+				<item name="Ammo_357" chance="0.75" />
+				<item name="Ammo_22" chance="0.75" />
+				<item name="Ammo_12gaPellets" chance="0.25" />
+				<item name="AmmoBox_22_50Rnd" chance="0.25" />
+				<item name="AmmoBox_357_20Rnd" chance="0.25" />
+				<item name="AmmoBox_380_35rnd" chance="0.25" />
+				<item name="AmmoBox_45ACP_25rnd" chance="0.25" />
+				<item name="AmmoBox_9x19_25rnd" chance="0.25" />
 		</cargo>
-		<cargo chance="0.25" name="ammoArmy">
-				<item name="Ammo_45ACP" chance="0.2" />
-				<item name="AmmoBox_45ACP_25Rnd" chance="0.05" />
-				<item name="Ammo_762x39" chance="0.2" />
-				<item name="AmmoBox_762x39_20Rnd" chance="0.05" />
-				<item name="Ammo_762x54" chance="0.2" />
-				<item name="AmmoBox_762x54_20Rnd" chance="0.05" />
+		<cargo chance="0.75" name="ammoArmy">
+				<item name="Ammo_12gaSlug" chance="0.75" />
+				<item name="Ammo_12GaBB" chance="0.75" /> 
+				<item name="Ammo_308Win" chance="0.75" />
+				<item name="Ammo_545x39" chance="0.75" />
+				<item name="Ammo_556x45" chance="0.75" /> 
+				<item name="Ammo_762x39" chance="0.75" /> 
+				<item name="Ammo_762x54" chance="0.75" />
+				<item name="Ammo_762x54Tracer" chance="0.75" />
+				<item name="Ammo_9x39" chance="0.75" />
+				<item name="AmmoBox_00buck_10rnd" chance="0.25" />
+				<item name="AmmoBox_12gaBB" chance="0.25" />
+				<item name="AmmoBox_308Win_20Rnd" chance="0.25" />
+				<item name="AmmoBox_545x39_20Rnd" chance="0.25" />
+				<item name="AmmoBox_556x45_20Rnd" chance="0.25" />
+				<item name="AmmoBox_762x39_20Rnd" chance="0.25" />
+				<item name="AmmoBox_762x54_20Rnd" chance="0.25" />
+				<item name="AmmoBox_9x39_20Rnd" chance="0.25" />
 		</cargo>
 		<cargo chance="0.1" name="mixVillage">
 				<item name="DuctTape" chance="0.07" />
@@ -135,14 +151,6 @@
 				<item name="KitchenKnife" chance="0.05" />
 				<item name="CanOpener" chance="0.05" />
 				<item name="BandageDressing" chance="0.05" />
-				<item name="Ammo_380" chance="0.22" />
-				<item name="AmmoBox_380_35Rnd" chance="0.08" />
-				<item name="Ammo_9x19" chance="0.15" />
-				<item name="AmmoBox_9x19_25Rnd" chance="0.08" />
-				<item name="Ammo_762x39" chance="0.12" />
-				<item name="AmmoBox_762x39_20Rnd" chance="0.02" />
-				<item name="Ammo_762x54" chance="0.08" />
-				<item name="AmmoBox_762x54_20Rnd" chance="0.02" />
 				<item name="SodaCan_Cola" chance="0.09" />
 				<item name="SodaCan_Pipsi" chance="0.09" />
 				<item name="SodaCan_Spite" chance="0.09" />
@@ -152,7 +160,7 @@
 				<item name="SpaghettiCan" chance="0.09" />
 				<item name="BakedBeansCan" chance="0.10" />
 		</cargo>
-		<cargo chance="0.1" name="mixHunter">
+		<cargo chance="0.5" name="mixHunter">
 				<item name="Paper" chance="0.3" />
 				<item name="Flashlight" chance="0.1" />
 				<item name="Matchbox" chance="0.07" />
@@ -160,14 +168,10 @@
 				<item name="HuntingKnife" chance="0.05" />
 				<item name="CanOpener" chance="0.05" />
 				<item name="BandageDressing" chance="0.05" />
-				<item name="Ammo_380" chance="0.22" />
-				<item name="AmmoBox_380_35Rnd" chance="0.08" />
-				<item name="Ammo_9x19" chance="0.15" />
-				<item name="AmmoBox_9x19_25Rnd" chance="0.08" />
-				<item name="Ammo_762x39" chance="0.12" />
-				<item name="AmmoBox_762x39_20Rnd" chance="0.02" />
-				<item name="Ammo_762x54" chance="0.08" />
-				<item name="AmmoBox_762x54_20Rnd" chance="0.02" />
+				<item name="Ammo_308Win" chance="0.12" />
+				<item name="AmmoBox_308Win_20Rnd" chance="0.02" />
+				<item name="Ammo_9x39" chance="0.08" />
+				<item name="AmmoBox_9x39_20Rnd" chance="0.02" />
 				<item name="SodaCan_Cola" chance="0.09" />
 				<item name="SodaCan_Pipsi" chance="0.09" />
 				<item name="SodaCan_Spite" chance="0.08" />
@@ -188,12 +192,6 @@
 				<item name="BakedBeansCan" chance="0.05" />
 				<item name="TacticalBaconCan" chance="0.1" />
 				<item name="Canteen" chance="0.1" />
-				<item name="Ammo_45ACP" chance="0.2" />
-				<item name="AmmoBox_45ACP_25Rnd" chance="0.05" />
-				<item name="Ammo_762x39" chance="0.2" />
-				<item name="AmmoBox_762x39_20Rnd" chance="0.05" />
-				<item name="Ammo_762x54" chance="0.2" />
-				<item name="AmmoBox_762x54_20Rnd" chance="0.05" />
 		</cargo>
 		<cargo chance="0.04" name="grenades">
 				<item name="RDG2SmokeGrenade_White" chance="0.25" />
@@ -201,7 +199,7 @@
 				<item name="RDG2SmokeGrenade_Black" chance="0.25" />
 				<item name="RDG5Grenade" chance="0.25" />
 		</cargo>
-		<attachments chance="0.10" name="optics">
+		<attachments chance="0.25" name="optics">
 				<item name="M4_T3NRDSOptic" chance="0.20" />
 				<item name="ACOGOptic" chance="0.20" />
 				<item name="M68Optic" chance="0.20" />

@@ -12,6 +12,7 @@
         <category name="MilitaryWeapons"/>
         <category name="MilitaryClothing"/>
         <category name="MilitaryAccessories"/>
+        <category name="MilitaryAttachments"/>
     </categories>
     <tags>
         <tag name="floor"/>

@@ -40,7 +40,7 @@ void main()
 	SpawnObject("Land_Mil_Barracks6", 	   "2564.912109 190.410126 5270.601563", "-179.999985 0.000000 0.000000");
 	SpawnObject("Land_Mil_Barracks_Round", "2439.742920 191.394089 5140.210938", "169.000000 0.000000 0.000000");
 
-	GetTesting().ExportProxyData("7500 0 7500", 10000);  //Centre of map, radius of how far to go out and find buildings
+	//GetTesting().ExportProxyData("7500 0 7500", 10000);  //Centre of map, radius of how far to go out and find buildings
 	
 	//INIT WEATHER BEFORE ECONOMY INIT------------------------
 	Weather weather = g_Game.GetWeather();
