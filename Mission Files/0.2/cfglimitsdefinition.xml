@@ -9,14 +9,14 @@
         <category name="weapons"/>
         <category name="books"/>
         <category name="explosives"/>
+        <category name="militaryweapons"/>
         <category name="militaryammo"/>
         <category name="militarymagazines"/>
-        <category name="militaryweapons"/>
         <category name="militaryattachments"/>
+        <category name="militarytools"/>
         <category name="militaryclothing"/>
         <category name="militaryaccessories"/>
         <category name="militarybackpacks"/>
-        <category name="militarytools"/>
     </categories>
     <tags>
         <tag name="floor"/>
