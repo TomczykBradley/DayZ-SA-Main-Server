@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <type name="ACOGOptic">
-        <nominal>20</nominal>
+        <nominal>1000</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>15</min>
@@ -14,7 +14,7 @@
         <usage name="Military"/>
     </type>
     <type name="MosinLRS">
-        <nominal>5</nominal>
+        <nominal>1000</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>0</min>
@@ -57,7 +57,7 @@
         <usage name="Military"/>
     </type>
     <type name="AKM">
-        <nominal>10</nominal>
+        <nominal>1000</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>7</min>
@@ -151,7 +151,7 @@
         <usage name="Military"/>
     </type>
     <type name="AK_Suppressor">
-        <nominal>5</nominal>
+        <nominal>1000</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
         <min>2</min>

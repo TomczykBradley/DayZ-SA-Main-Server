@@ -1748,66 +1748,7 @@
 			<item name="Mag_Saiga_Drum20Rnd" chance="0.30" />
         </attachments>
 	</type>
--->
-    ///PLEASE PUT THIS IN CFGSPAWNABLETYPES
-  <type name="MassPPSH41">
-        <attachments chance="0.60">
-            <item name="Massppshdrum" chance="0.10" />
-            <item name="Massppshbox" chance="0.90" />
-        </attachments>
-    </type>
-	<type name="MassSVT40">
-        <attachments chance="0.60">
-            <item name="MassSVTmag" chance="1.00" />
-        </attachments>
-    </type>
-	<type name="MassKivaari">
-        <attachments chance="0.20">
-            <item name="HuntingOptic" chance="0.50" />
-            <item name="ACOGOptic" chance="0.50" />
-        </attachments>
-        <attachments chance="0.20">
-            <item name="kivaarimag" chance="1.0" />
-        </attachments>
-    </type>
-	<type name="Massm300">
-        <attachments chance="0.20">
-            <item name="HuntingOptic" chance="0.50" />
-            <item name="ACOGOptic" chance="0.50" />
-        </attachments>
-        <attachments chance="0.60">
-            <item name="Massm300mag" chance="1.0" />
-        </attachments>
-    </type>
-	<type name="Massarmsan">
-        <attachments chance="0.20">
-            <item name="HuntingOptic" chance="1.0" />
-        </attachments>
-        <attachments chance="0.30">
-            <item name="shotgunSuppressor" chance="1.0" />
-        </attachments>
-    </type>
-	<type name="MassB52">
-        <attachments chance="0.20">
-            <item name="ACOGOptic" chance="1.0" />
-        </attachments>
-        <attachments chance="0.60">
-            <item name="Mag_AKM_30Rnd" chance="1.0" />
-        </attachments>
-    </type>
-	<type name="MassM110">
-        <attachments chance="0.50">
-            <item name="Mass308STAMAG" chance="1.0" />
-        </attachments>
-    </type>
-	<type name="MassScout556">
-        <attachments chance="0.80">
-            <item name="Scout556mag" chance="1.0" />
-        </attachments>
-		<attachments chance="0.50">
-            <item name="MassScoutLRS" chance="1.0" />
-        </attachments>
-    </type>
+-->	
 	<!--  END OF WEAPONS  -->
     <type name="PersonalRadio">
         <attachments chance="0.30">
