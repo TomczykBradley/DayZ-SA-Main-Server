@@ -2,7 +2,7 @@
 <events>
     <event name="AmbientHen">
         <waves>0</waves>
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <min>0</min>
         <max>50</max>
         <lifetime>33</lifetime>
@@ -23,7 +23,7 @@
     </event>
     <event name="AmbientTest">
         <waves>0</waves>
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <min>0</min>
         <max>50</max>
         <lifetime>5</lifetime>
@@ -39,7 +39,7 @@
     </event>
     <event name="AnimalCow">
         <waves>0</waves>
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <min>6</min>
         <max>8</max>
         <lifetime>180</lifetime>
@@ -62,7 +62,7 @@
     </event>
     <event name="AnimalDeer">
         <waves>0</waves>
-        <nominal>1</nominal>
+        <nominal>4</nominal>
         <min>6</min>
         <max>8</max>
         <lifetime>180</lifetime>
@@ -81,7 +81,7 @@
     </event>
     <event name="AnimalGoat">
         <waves>0</waves>
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <min>6</min>
         <max>8</max>
         <lifetime>180</lifetime>
@@ -102,7 +102,7 @@
     </event>
     <event name="AnimalPig">
         <waves>0</waves>
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <min>6</min>
         <max>8</max>
         <lifetime>180</lifetime>
@@ -120,7 +120,7 @@
     </event>
     <event name="AnimalRoeDeer">
         <waves>0</waves>
-        <nominal>1</nominal>
+        <nominal>4</nominal>
         <min>6</min>
         <max>8</max>
         <lifetime>180</lifetime>
@@ -139,7 +139,7 @@
     </event>
     <event name="AnimalSheep">
         <waves>0</waves>
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <min>6</min>
         <max>8</max>
         <lifetime>180</lifetime>
@@ -158,7 +158,7 @@
     </event>
     <event name="AnimalWildBoar">
         <waves>0</waves>
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <min>4</min>
         <max>6</max>
         <lifetime>180</lifetime>
@@ -176,7 +176,7 @@
     </event>
     <event name="AnimalWolf">
         <waves>0</waves>
-        <nominal>1</nominal>
+        <nominal>4</nominal>
         <min>5</min>
         <max>8</max>
         <lifetime>180</lifetime>
@@ -195,8 +195,8 @@
     </event>
     <event name="InfectedArmy">
         <waves>0</waves>
-        <nominal>80</nominal>
-        <min>50</min>
+        <nominal>50</nominal>
+        <min>25</min>
         <max>250</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
@@ -218,8 +218,8 @@
     <event name="InfectedCity">
         <waves>0</waves>
         <nominal>50</nominal>
-        <min>50</min>
-        <max>150</max>
+        <min>25</min>
+        <max>250</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -296,7 +296,7 @@
     </event>
     <event name="InfectedFirefighter">
         <waves>0</waves>
-        <nominal>25</nominal>
+        <nominal>50</nominal>
         <min>25</min>
         <max>100</max>
         <lifetime>3</lifetime>
@@ -386,9 +386,9 @@
     </event>
     <event name="InfectedPolice">
         <waves>0</waves>
-        <nominal>80</nominal>
-        <min>50</min>
-        <max>250</max>
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -406,9 +406,9 @@
     </event>
     <event name="InfectedPrisoner">
         <waves>0</waves>
-        <nominal>80</nominal>
-        <min>50</min>
-        <max>250</max>
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -593,7 +593,7 @@
     </event>
     <event name="StaticHeliCrash">
         <waves>0</waves>
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>2500</lifetime>
@@ -606,8 +606,8 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <!--<child lootmax="20" lootmin="15" max="3" min="1" type="Wreck_Mi8"/>-->
-            <child lootmax="20" lootmin="15" max="5" min="5" type="Wreck_UH1Y"/>
+            <child lootmax="20" lootmin="10" max="3" min="1" type="Wreck_Mi8"/>
+            <child lootmax="20" lootmin="10" max="3" min="1" type="Wreck_UH1Y"/>
         </children>
     </event>
     <event name="StaticPoliceCar">
@@ -882,7 +882,7 @@
     </event>
     <event name="VehicleV3S">
         <waves>0</waves>
-        <nominal>0</nominal>
+        <nominal>15</nominal>
         <min>8</min>
         <max>15</max>
         <lifetime>300</lifetime>

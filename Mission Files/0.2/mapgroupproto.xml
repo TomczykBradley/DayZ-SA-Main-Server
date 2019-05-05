@@ -5989,22 +5989,17 @@
 						<point pos="2.463134 3.923828 -8.014893" range="0.203125" height="0.370003" />
 				</container>
 		</group>
-		<group name="Land_Mil_Barracks_Round" lootmax="5">
+		<group name="Land_Mil_Barracks_Round" lootmax="10">
 				<usage name="Military" />
-				<container name="lootFloor">
-						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
-						<category name="food" />
-						<category name="books" />
+				<container name="lootFloor" lootmax="4">
+						<category name="militaryattachments" />
 						<point pos="-0.549943 -0.696411 -0.969652" range="0.582314" height="0.263550" />
 						<point pos="1.294307 -0.696655 0.429309" range="0.759482" height="1.898705" />
 						<point pos="-3.220047 -0.696075 1.838330" range="1.018310" height="1.575073" />
 						<point pos="-3.111829 -0.696075 -1.503751" range="1.196045" height="1.702362" />
 				</container>
-				<container name="lootweapons">
-						<category name="weapons" />
-						<category name="explosives" />
+				<container name="lootweapons" lootmax="6">
+						<category name="militaryweapons" />
 						<point pos="4.590201 -0.270569 2.138198" range="0.134375" height="0.335938" />
 						<point pos="1.513111 -0.270569 -0.382258" range="0.168750" height="0.421875" />
 						<point pos="-0.398907 -0.018066 -2.134708" range="0.203125" height="0.507813" />
