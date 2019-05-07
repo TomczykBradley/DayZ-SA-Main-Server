@@ -38,24 +38,4 @@ Patch 0.2:
             -   Land_Mil_Guardhouse2
         )
 
-        - Catagory Nominal Outline (how many items should be aproximately in map)
-            (
-                - militaryweapons 
-                    - Basic >200<
-                    - Average >100<
-                    - Rare >50<
-                    - Super Rare >10<
-                - militaryammo >1000<
-                - militarymagazines >200<
-                - militaryattachments >100<
-                - militarytools >100<
-                - militaryclothing >100<
-                - militaryaccessories >50<
-                - militarybackpacks >25<
-
-                - All items Min = 10
-            )
-
-        - Changed all the default weapons catagories to militaryweapons in types.xml
-
         
