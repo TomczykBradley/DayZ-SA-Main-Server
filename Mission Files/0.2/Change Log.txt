@@ -1,0 +1,41 @@
+Patch 0.2:
+    5/6/2019 -   
+        - Added Military Catagories to cfglimitsdefinitions.xml (militaryweapons, militaryammo, militarymagazines, militaryattachments, military tools, militaryclothing, militaryaccessories, militarybackpacks)
+        - Configured catagories for all Land_Mil locations and added in the catagory types (mapgroupproto.xml)
+        (
+            -   Land_Mil_Barracks1  //Completed
+            -   Land_Mil_Barracks2  //Completed 
+            -   Land_Mil_Barracks3  //Completed
+            -   Land_Mil_Barracks4  //Completed
+            -   Land_Mil_Barracks5  //Completed
+            -   Land_Mil_Barracks6  //Completed
+            -   Land_Mil_Barracks_Round //Completed
+
+            -   Land_Mil_Tent_Big1  //Completed
+            -   Land_Mil_Tent_Big2  //Completed
+            -   Land_Mil_Tent_Big3  //Completed
+
+            -   Land_Tisy_HQ
+            -   Land_Tisy_Garages
+            -   Land_Tisy_RadarB_Base
+            -   Land_Tisy_Base_cooler
+            -   Land_Tisy_RadarPlatform_Top
+            -   Land_Tisy_KitchenRoom
+            -   Land_Tisy_Barracks
+
+            -   Land_Mil_GuardTower
+            -   Land_Mil_Tower_Small
+            -   Land_Mil_GuardShed
+
+            -   Land_Mil_Fortified_Nest_Big
+            -   Land_Mil_Fortified_Nest_Watchtower
+
+            -   Land_Mil_ATC_Small
+            -   Land_Mil_ATC_Big
+            -   Land_Mil_Airfield_HQ
+
+            -   Land_Mil_Guardhouse1
+            -   Land_Mil_Guardhouse2
+        )
+
+        
