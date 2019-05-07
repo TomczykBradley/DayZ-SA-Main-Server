@@ -7,8 +7,8 @@ Patch 0.2
                     - Average >100<
                     - Rare >50<
                     - Super Rare >10<
-                - militaryammo >1000<
-                - militarymagazines >200<
+                - militaryammo >100<
+                - militarymagazines >50<
                 - militaryattachments >100<
                 - militarytools >100<
                 - militaryclothing >100<
@@ -18,4 +18,5 @@ Patch 0.2
                 - All items Min = 10
             )
 
-        - Changed all the default weapons catagories to militaryweapons in types.xml
+        - Changed all the default weapons catagories to correct catagory types in types.xml
+        - Changed all Nominal for Default (militaryweapons, militaryattachments, militaryammo, militarymagazines)
