@@ -2,7 +2,7 @@ Patch 0.2
     5/7/2019
         - Catagory Nominal Outline (how many items should be aproximately in map)
             (
-                - militaryweapons 
+                - militaryweapons
                     - Basic >200<
                     - Average >100<
                     - Rare >50<

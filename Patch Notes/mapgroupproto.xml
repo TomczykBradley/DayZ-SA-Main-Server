@@ -9682,7 +9682,7 @@
 						<point pos="-0.069581 -1.228294 0.914551" range="0.888434" height="0.245163" flags="32" />
 						<point pos="0.170166 -1.228294 -0.950195" range="0.573214" height="0.260818" flags="32" />
 				</container>
-		</group>		
+		</group>
 		<group name="Land_Misc_DeerStand1" lootmax="2">
 				<usage name="Hunting" />
 				<container name="lootFloor">
