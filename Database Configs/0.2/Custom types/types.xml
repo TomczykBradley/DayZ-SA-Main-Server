@@ -2,7 +2,7 @@
 <types>
 <!--MilitaryWeapons-->
 
-    <!--Pistols-->
+    <!--Pistolss-->
     <type name="CZ75">
         <nominal>200</nominal>
         <lifetime>10800</lifetime>
