@@ -43,6 +43,6 @@ Idea List:
             - Civilian Clothing = High Chance
             - Tools = Low Chance
             - Food = Medium Chance
-            
+
 
 
