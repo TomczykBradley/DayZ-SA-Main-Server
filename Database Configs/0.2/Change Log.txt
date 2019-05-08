@@ -21,3 +21,4 @@ Patch 0.2
         - Changed all the default weapons catagories to correct catagory types in types.xml
         - Changed all Nominal for Default (militaryweapons, militaryattachments, militaryammo, militarymagazines)
         - Created a Custom types.xml so that every item is more catagorized so loot can be configured more easily
+        - Adding this for test
