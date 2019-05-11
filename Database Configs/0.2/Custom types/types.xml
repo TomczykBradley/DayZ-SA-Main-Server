@@ -6048,6 +6048,38 @@
             <category name="clothes"/>
             <usage name="Medic"/>
         </type>
+        <type name="NurseDress_Blue">
+            <nominal>8</nominal>
+            <lifetime>5600</lifetime>
+            <restock>0</restock>
+            <min>4</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="clothes"/>
+            <usage name="Medic"/>
+            <value name="Tier1"/>
+            <value name="Tier2"/>
+            <value name="Tier3"/>
+            <value name="Tier4"/>
+        </type>
+        <type name="NurseDress_White">
+            <nominal>8</nominal>
+            <lifetime>5600</lifetime>
+            <restock>0</restock>
+            <min>4</min>
+            <quantmin>-1</quantmin>
+            <quantmax>-1</quantmax>
+            <cost>100</cost>
+            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+            <category name="clothes"/>
+            <usage name="Medic"/>
+            <value name="Tier1"/>
+            <value name="Tier2"/>
+            <value name="Tier3"/>
+            <value name="Tier4"/>
+        </type>
 
         <!--Prisoner Gear-->
         <type name="PrisonerCap">
